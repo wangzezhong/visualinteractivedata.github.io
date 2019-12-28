@@ -13,3 +13,6 @@ _Visual+Interactive Data_ is a research group that investigates data visualizati
 
 # Projects
 
+
+# Publications
+
