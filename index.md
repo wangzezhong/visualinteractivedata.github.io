@@ -1,3 +1,3 @@
-# News
+# Latest
 
 # Projects
