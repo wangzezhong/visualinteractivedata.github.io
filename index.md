@@ -1,4 +1,4 @@
-[People](people) | 
+[People](pages/people.md) | 
 [Resources](resources) |
 [Teaching](teaching) |
 [Projects](teaching) |
