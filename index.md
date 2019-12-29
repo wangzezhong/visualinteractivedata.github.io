@@ -20,7 +20,7 @@ __Visual+Interactive Data__ is a research group that investigates data visualiza
 
 ## Publications
 
-![](./figures/lekschas2020scalable.png)
+![](./figures/lekschas2020scalable.png){width="100px"}.
 
 
 ## People 
