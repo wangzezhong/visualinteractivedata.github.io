@@ -103,3 +103,79 @@ Bach, Benjamin, Ronell Sicat, Johanna Beyer, Maxime Cordeil, and Hanspeter Pfist
 ![](figures/lekschas2018hipiler.png)
 **[HiPiler: visual exploration of large genome interaction matrices with interactive small multiples](https://core.ac.uk/download/pdf/151396055.pdf)**
 Lekschas, Fritz, Benjamin Bach, Peter Kerpedjiev, Nils Gehlenborg, and Hanspeter Pfister. *IEEE transactions on visualization and computer graphics 24, no. 1 (2018): 522-531.*
+
+## 2017
+
+**[Alignment Cubes: Towards Interactive Visual Exploration and Evaluation of Multiple Ontology Alignments](http://ceur-ws.org/Vol-1963/paper496.pdf)**
+Valentina Ivanova, Benjamin Bach, Emmanual Pietriga, Pierre Lambrix
+*International Semantic Web Conference, 400-417*
+
+**[Understanding the Use of The Vistorian: Complementing Logs with Context Mini-Questionnaires](https://hal.inria.fr/hal-01650259/document)
+Verena S. Molinero, Benjamin Bach, Catherine Plaisant, Nicole Dufournaud, Jean-Daniel Fekete
+*Workshop on Visualization for the Digital Humanities IEEE VIS 2017*
+
+**Crowdsourcing for Information Visualization: Promises and Pitfalls**
+Rita Borgo, Bongshin Lee, Benjamin Bach, Sara Fabrikant, Radu Jianu, Andreas Kerren, Stephen Kobourov, Fintan McGee, Luana Micallef, Tatiana von Landesberger, Katrin Ballweg, Stephan Diehl, Paolo Simonetto, Michelle Zhou
+
+![](figures/bach2017drawing.png)
+**[Drawing into the AR-CANVAS: Designing Embedded Visualizations for Augmented Reality](https://vcg.seas.harvard.edu/publications/drawing-into-the-ar-canvas-designing-embedded-visualizations-for-augmented-reality)**
+Benjamin Bach, Ronell Sicat, Hanspeter Pfister, Aaron Quigley
+IEEE VIS, Workshop on Immersive Analytics
+Evaluation in the Crowd. Crowdsourcing and Human-Centered Experiments, 96-138
+
+![](figures/bach2017emerging.png)
+**[The Emerging Genre of Data Comics](https://www.researchgate.net/profile/Benjamin_Bach2/publication/316497056_The_Emerging_Genre_of_Data_Comics/links/5b22526ca6fdcc69745ee6a7/The-Emerging-Genre-of-Data-Comics.pdf)**
+Benjamin Bach, Nathalie Henry Riche, Sheelagh Carpendale, Hanspeter Pfister
+IEEE Computer Graphics and Applications 38 (3), 6-13
+
+![](figures/cordeil2017spatio.png)
+**[A Design Space for Spatio-Data Coordination: Tangible Interaction Devices for Immersive Information Visualisation]()**
+Maxime Cordeil, Benjamin Bach, Yongchao Li, Elliott Willson, Tim Dwyer
+Proceedings of IEEE Pacific Visualization Symposium (Pacific Vis)
+
+![](figures/chang2017evaluating.png)
+**[Evaluating Perceptually Complementary Views for Network Exploration Tasks](https://ialab.it.monash.edu/~dwyer/papers/proceedings_complementaryviews.pdf)**
+Chungli Chang, Benjamin Bach, Tim Dwyer, Kim Marriott
+ACM Conference on Human Factors in Information Systems (CHI)
+
+![](figures/behrisch2017magnostics.png)
+**[Magnostics: Image-based Search of Interesting Matrix Views for Guided Network Exploration](https://hal.inria.fr/hal-01377861/document)**
+Michael Behrisch, Benjamin Bach, Michael Hund, Michael Delz, Laura von Rueden, Jean-Daniel Fekete, Tobias Scheck
+IEEE Transactions on Visualization and Computer Graphics (TVCG)
+
+
+![](figures/bach2017confluence.png.png)
+**[Towards Unambiguous Edge Bundling: Investigating Confluent Drawings for Network Visualization](https://aviz.fr/~bbach/confluentgraphs/Bach2016confluentgraphs.pdf)**
+Benjamin Bach, Nathalie Henry Riche, Christophe Hurter, Kim Marriott, Tim Dwyer
+IEEE Transactions on Visualization and Computer Graphics (TVCG)
+
+[Weblink](https://aviz.fr/~bbach/confluentgraphs)
+
+## 2016
+
+![](figures/bach2016telling.png.png)
+**[Telling Stories about Dynamic Networks with Graph Comics]](https://hal.inria.fr/hal-01256099/document)**
+Benjamin Bach, Nathalie Kerracher, Kyle W. Hall, Sheelagh Carpendale, Jessie Kennedy, Nathalie Henry Riche
+Proceedings of the Conference on Human Factors in Information Systems (CHI)
+
+![](figures/bach2016descriptive.png.png)
+**[A Descriptive Framework for Temporal Data Visualizations Based on Generalized Space‐Time Cubes](https://hal-enac.archives-ouvertes.fr/hal-01303506/file/Bach2016spacetimecubes.pdf)**
+Benjamin Bach, Pierre Dragicevic, Daniel Archambault, Christophe Hurter, Sheelagh Carpendale
+Computer Graphics Forum
+
+Unfolding Dynamic Networks for Visual Exploration
+Benjamin Bach
+IEEE Computer Graphics and Applications 36 (2), 74-82
+
+![](figures/brehmer2016timelines.png)
+**[Timelines Revisited: A Design Space and Considerations for Expressive Storytelling](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/10/Brehmer-TVCG-2017.pdf)**. Matthew Brehmer, Bongshin Lee, Benjamin Bach, Nathalie Henry Riche, Tamara Munzner. IEEE Transactions on Visualization and Computer Graphics (TVCG, Proceedings of InfoVis 2015)
+
+![](figures/behrisch2016matrix.png.png)
+**[Matrix Reordering Methods for Table and Network Visualization](https://hal.inria.fr/hal-01326759/document)**
+Michael Behrisch, Benjamin Bach, Nathalie Henry Riche, Tobias Schreck, Jean-Daniel Fekete
+EuroVis (State-of-the-Art) 35 (3)
+
+![](figures/bach2016timecurves.png.png)
+**[Time Curves: Folding Time to Visualize Patterns of Temporal Evolution in Data](https://aviz.fr/~bbach/timecurves/Bach2015timecurves.pdf)**
+Benjamin Bach, Conglei Shi, Nicholas Heulot, Tara Madhyastha, Thomas Grabowski, Pierre Dragicevic
+IEEE Transactions on Visualization and Computer Graphics (TCVG), 2016
