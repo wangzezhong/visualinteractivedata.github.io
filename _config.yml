@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-logo: "figures/logo.png"
+logo: "figures/logo-b.png"
 relative_links:
   enabled: true
   collections: true
