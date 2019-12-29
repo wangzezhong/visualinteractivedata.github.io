@@ -42,18 +42,19 @@ Different from the abstract, the introduction usually follows the slightly adapt
 * WHY
 * WHAT
 * HOW
+
 Within this structure, cover the following:
 
 * **Contribution:** What is novel and why would people cite your paper. The best is to dedicate a paragraph to the contribution. You may want to iterate and refine as you go. This is usually a paragraph that starts with 'In this paper .. '.
 Type of contribution: are you presenting a survey, a controlled study, a system, a case study, etc..
 * **Methodology:** how did you structure your work, what high-level steps did you undertake that helped you coming to your conclusion/result.
-* **State outcome and impact: what did you eventually find and who benefit from it. This can be a single brief sentence.
+* **State outcome and impact:** what did you eventually find and who benefit from it. This can be a single brief sentence.
 Mention URL to additional material, if available. Readers who don’t read your entire paper will still find the ‘fun’ bits. It’s generally a good idea to provide a website or simple blog (e.g. WordPress) alongside with your work. This helps the lay-reader to better understand what you have done. Add pictures, working code, etc.
 * **Mention external collaborators if present**. This strengthens your method and credibility from the beginning on.
 * A **research question** can help the reader understanding your goal and methodology. A research question is a question that you can answer with your methodology.  You can state the question explicitly: ‘We are interested in how people use pen and paper to annotate visualizations.”
 
 
-## Background / Related Work
+### Background / Related Work
 
 This section, usually following the introduction provides the knowledge the reader needs to know to understand your contribution. A good background section can support your motivation of why this research is necessary as well as support your contribution to the state-of-the-art. Write the related work with these objectives in mind.
 
