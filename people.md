@@ -17,6 +17,7 @@
 ## PhD Students 
 
 <table>
+
   <tr>
    <td style="vertical-align:top;width:150px;"><img src="people/wang.jpg" style="width:150px;float:left;margin-left:10px"/></td>
     <td style="vertical-align:top;">
@@ -24,16 +25,44 @@
       <br/>
       <a href="https://scholar.google.com/citations?user=EJ8drhwAAAAJ&hl=en&oi=ao">Google Scholar</a>
     </td>
-</tr>
+  </tr>
+  
+  <tr>
+   <td style="vertical-align:top;width:150px;"><img src="people/kauer.jpg" style="width:150px;float:left;margin-left:10px"/></td>
+    <td style="vertical-align:top;">
+      <b>Tobias Kauer</b> working on <i>Discursive Data Visualization</i>.
+      <br/>
+      <a href="https://scholar.google.com/citations?user=qDN6jW4AAAAJ&hl=en&oi=ao">Google Scholar</a>
+    </td>
+  </tr>
+  
+  <tr>
+   <td style="vertical-align:top;width:150px;"><img src="people/default.jpg" style="width:150px;float:left;margin-left:10px"/></td>
+    <td style="vertical-align:top;">
+      <b>Mashael Hamad Alkadi</b> working on <i>Learning Analytics</i>.
+    </td>
+  </tr>
+
+  <tr>
+   <td style="vertical-align:top;width:150px;"><img src="people/harper-lee.jpg" style="width:150px;float:left;margin-left:10px"/></td>
+    <td style="vertical-align:top;">
+      <b>John Harper-Lee</b> working on <i>Biological Data Analysis</i>.
+      <br/>
+      <a href="https://scholar.google.com/citations?user=qDN6jW4AAAAJ&hl=en&oi=ao">Google Scholar</a>
+    </td>
+  </tr>
+  
+  <tr>
+   <td style="vertical-align:top;width:150px;"><img src="people/default.png" style="width:150px;float:left;margin-left:10px"/></td>
+    <td style="vertical-align:top;">
+      <b>John Harper-Lee</b> working on <i>Temporal Design</i>.
+      <br/>
+      <a href="https://scholar.google.com/citations?user=qDN6jW4AAAAJ&hl=en&oi=ao">Google Scholar</a>
+    </td>
+  </tr>
+  
 </table>
 
-**Tobias Kauer**  
-
-**Mashael Hamad Alkadi**  
-
-**John Harper-Lee**  
-
-**Ryan Bowler**  
 
 ## Master by Research 
 
