@@ -23,6 +23,8 @@
     <td style="vertical-align:top;">
       <b>Zezhong Wang</b> working on <i>Methods for Creating and Teaching Data Comics</i>.
       <br/>
+      <a href="https://www.google.com/url?q=https%3A%2F%2Fwww.designinformatics.org%2Fperson%2Fzezhong-wang%2F&sa=D&sntz=1&usg=AFQjCNHzUyBbeidHdj8inLnByMelDz7tjg">Personal website</a>
+      <br/>
       <a href="https://scholar.google.com/citations?user=EJ8drhwAAAAJ&hl=en&oi=ao">Google Scholar</a>
     </td>
   </tr>
@@ -31,6 +33,8 @@
    <td style="vertical-align:top;width:150px;"><img src="people/kauer.jpg" style="width:150px;float:left;margin-left:10px"/></td>
     <td style="vertical-align:top;">
       <b>Tobias Kauer</b> working on <i>Discursive Data Visualization</i>.
+      <br/>
+      <a href="https://twitter.com/tobi_vierzwo">Personal website</a>      
       <br/>
       <a href="https://scholar.google.com/citations?user=qDN6jW4AAAAJ&hl=en&oi=ao">Google Scholar</a>
     </td>
