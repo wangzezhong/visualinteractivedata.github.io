@@ -16,7 +16,12 @@ __Visual+Interactive Data__ is a research group that investigates data visualiza
 
 ## Latest
 
-## Projects
+## Online
+
+* **[Vistorian.net](Vistorian.net)**: Interactive Visualizations for Dynamic and Multivariate Networks.
+Free, online, and open source. More information on the Vistorian-blog. To support the project and help us securing funding, please cite our paper when using the Vistorian (thanks!).
+* **[Datacomics.net](Datacomics.net)**: Collection and platform for data-driven storytelling with data comics.
+* **[DataOnCurves.wordpress.com](DataOnCurves.wordpress.com)**: Collection of visualizations based on curves and lines.
 
 ## Publications
 ### 2020
