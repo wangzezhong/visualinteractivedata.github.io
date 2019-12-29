@@ -40,32 +40,33 @@ Maxime Cordeil, Andrew Cunningham, Benjamin Bach, Christophe Hurter, Bruce H. Th
 [Weblink](https://research.monash.edu/en/publications/iatk-an-immersive-analytics-toolkit)
 
 ![](figures/havens2019paxvis.png)
-**[PaxVis: Visualizing Peace Agreements](papers/havens2019paxvis)**
+**[PaxVis: Visualizing Peace Agreements](papers/havens2019paxvis.pdf)**
 Lucy Havens, Mengting Bao, Larissa Pschetz, Benjamin Bach, Christine Bell. 
 *ACM Conference on Human Factors in Computing Systems (CHI) (2019).*
 
 [Weblink](https://sarah37.github.io/pax/timeandspace)
 
 
-![figures/lekschas2020scalable.png]
-[Pattern-Driven Navigation in 2D Multiscale Visualizations with Scalable Insets](https://vcg.seas.harvard.edu/publications/pattern-driven-navigation-in-2d-multiscale-visualizations-with-scalable-insets)
-Fritz Lekschas, Michael Behrisch, Benjamin Bach, Peter Kerpedjiev, Nils Gehlenborg, Hanspeter Pfister, *IEEE Transactions on Visualization and Computer Graphics (TVCG) 2020 (IEEE VIS, 2019))*  
+![](figures/wang2019comparing.png)
+**[Comparing Effectiveness and Engagement of Data Comics and Infographics](https://www.researchgate.net/profile/Benjamin_Bach2/publication/331357753_Comparing_Effectiveness_and_Engagement_of_Data_Comics_and_Infographics/links/5cb859aaa6fdcc1d499cc3b1/Comparing-Effectiveness-and-Engagement-of-Data-Comics-and-Infographics.pdf)**
+Zezong Wang, Shunming Wang, Matteo Farinella, Dave Murray-Rust, Nathalie Henry Riche.  *ACM Conference on Human Factors in Computing Systems (CHI)  (2019).*
 
 
-![figures/lekschas2020scalable.png]
-[Pattern-Driven Navigation in 2D Multiscale Visualizations with Scalable Insets](https://vcg.seas.harvard.edu/publications/pattern-driven-navigation-in-2d-multiscale-visualizations-with-scalable-insets)
-Fritz Lekschas, Michael Behrisch, Benjamin Bach, Peter Kerpedjiev, Nils Gehlenborg, Hanspeter Pfister, *IEEE Transactions on Visualization and Computer Graphics (TVCG) 2020 (IEEE VIS, 2019))*  
+![](figures/kim2019datatoon.png)
+**[DataToon: Drawing Data Comics About DynamicNetworks with Pen + Touch Interaction](https://www.researchgate.net/profile/Benjamin_Bach2/publication/332231214_DataToon_Drawing_Data_Comics_About_Dynamic_Networks_with_Pen_Touch_Interaction/links/5ca78456299bf118c4b57dd7/DataToon-Drawing-Data-Comics-About-Dynamic-Networks-with-Pen-Touch-Interaction.pdf)**
+Nam Wook Kim, Nathalie Henry Riche, Benjamin Bach, Guanpeng Xu, Matthew Brehmer, Ken Hinckley, Michel Pahud, Haijun Xia, Michael J. McGuffin, Hanspeter Pfister. *ACM Conference on Human Factors in Computing Systems (CHI) (2019).*
 
-![figures/lekschas2020scalable.png]
-[Pattern-Driven Navigation in 2D Multiscale Visualizations with Scalable Insets](https://vcg.seas.harvard.edu/publications/pattern-driven-navigation-in-2d-multiscale-visualizations-with-scalable-insets)
-Fritz Lekschas, Michael Behrisch, Benjamin Bach, Peter Kerpedjiev, Nils Gehlenborg, Hanspeter Pfister, *IEEE Transactions on Visualization and Computer Graphics (TVCG) 2020 (IEEE VIS, 2019))*  
+![](figures/wang2019teaching.png)
+**[Teaching Data Visualization and Storytelling with Data Comic Workshops](papers/wang2019teaching.pdf)**
+Zezhong Wang, Harvey Dingwal, Benjamin Bach.  ACM Conference on Human Factors in Computing Systems (CHI), Extended Abstracts (2019).
 
-![figures/lekschas2020scalable.png]
-[Pattern-Driven Navigation in 2D Multiscale Visualizations with Scalable Insets](https://vcg.seas.harvard.edu/publications/pattern-driven-navigation-in-2d-multiscale-visualizations-with-scalable-insets)
-Fritz Lekschas, Michael Behrisch, Benjamin Bach, Peter Kerpedjiev, Nils Gehlenborg, Hanspeter Pfister, *IEEE Transactions on Visualization and Computer Graphics (TVCG) 2020 (IEEE VIS, 2019))*  
+![](figures/sicat2019dxr.png)
+**[DXR: A Toolkit for Building Immersive Data Visualizations](papers/sicat2019dxr.pdf)**
+Sicat, Ronell, Jiabao Li, JunYoung Choi, Maxime Cordeil, Won-Ki Jeong, Benjamin Bach, and Hanspeter Pfister. *IEEE transactions on visualization and computer graphics (2019) (IEEE VIS 2018).*
 
 
 ## People 
+
 
 ## Working with us
 
