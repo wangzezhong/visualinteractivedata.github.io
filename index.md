@@ -11,28 +11,20 @@ Visual+Interactive Data is heavily involved in co-organizing Edinburgh's [Data V
 
 ## Selected Projects
 
-<table>
-  <tr>
-    <td><img src="figures/cheatsheets.png" width="200px"/><a href="https://sites.google.com/view/datavisualizationcheatsheet">Data Visualization Cheat Sheets</a></td>
-  </tr>
-  <tr>
-    <td><img src="figures/vistorian-3.png" width="200px"/><a href="htp://Vistorian.net">The Vistorian: Interactive Visualizations for Dynamic and Multivariate Networks.</a></td>
-  </tr>
-
-</table>
-
-
-
 ![](figures/cheatsheets.png)
-* **[Data Visualization Cheat Sheets](https://sites.google.com/view/datavisualizationcheatsheet)**
+###**[Data Visualization Cheat Sheets](https://sites.google.com/view/datavisualizationcheatsheet)**
+
 ![](figures/immersiveanalytics.png)
-* **[DXR](https://sites.google.com/view/dxr-vis)** and **[IATK](https://github.com/MaximeCordeil/IATK)**, two toolkits for immersive data visualizations. Check our [latest workshop at CHI 2020](http://immersiveanalytics.io).
+###**[DXR](https://sites.google.com/view/dxr-vis)** and **[IATK](https://github.com/MaximeCordeil/IATK)**, two toolkits for immersive data visualizations. Check our [latest workshop at CHI 2020](http://immersiveanalytics.io).
+
 ![](figures/vistorian.png)
-* **[Vistorian.net](Vistorian.net)**: Interactive Visualizations for Dynamic and Multivariate Networks.
+**[Vistorian.net](Vistorian.net)**: Interactive Visualizations for Dynamic and Multivariate Networks.
 Free, online, and open source. More information on the Vistorian-blog. To support the project and help us securing funding, please cite our paper when using the Vistorian (thanks!).
+
 ![](figures/datacomics.png)
-* **[Datacomics.net](Datacomics.net)**: Collection and platform for data-driven storytelling with data comics.
-* **[DataOnCurves.wordpress.com](DataOnCurves.wordpress.com)**: Collection of visualizations based on curves and lines.
+**[Datacomics.net](Datacomics.net)**: Collection and platform for data-driven storytelling with data comics.
+
+**[DataOnCurves.wordpress.com](DataOnCurves.wordpress.com)**: Collection of visualizations based on curves and lines.
 
 ## Joining Us
 
