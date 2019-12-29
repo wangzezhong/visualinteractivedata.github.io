@@ -21,12 +21,16 @@ Visual+Interactive Data is heavily involved in co-organizing Edinburgh's [Data V
 
 </table>
 
+
+
+![](figures/cheatsheets.png)
 * **[Data Visualization Cheat Sheets](https://sites.google.com/view/datavisualizationcheatsheet)**
-* **[Survey of geographic networks](https://geographic-networks.github.io/)**
-* **[DXR](https://sites.google.com/view/dxr-vis)** a toolkit for immersive data visualizations 
-* **[IATK](https://github.com/MaximeCordeil/IATK)** another toolkit for immersive data visualizations
+![](figures/immersiveanalytics.png)
+* **[DXR](https://sites.google.com/view/dxr-vis)** and **[IATK](https://github.com/MaximeCordeil/IATK)**, two toolkits for immersive data visualizations. Check our [latest workshop at CHI 2020](http://immersiveanalytics.io).
+![](figures/vistorian.png)
 * **[Vistorian.net](Vistorian.net)**: Interactive Visualizations for Dynamic and Multivariate Networks.
 Free, online, and open source. More information on the Vistorian-blog. To support the project and help us securing funding, please cite our paper when using the Vistorian (thanks!).
+![](figures/datacomics.png)
 * **[Datacomics.net](Datacomics.net)**: Collection and platform for data-driven storytelling with data comics.
 * **[DataOnCurves.wordpress.com](DataOnCurves.wordpress.com)**: Collection of visualizations based on curves and lines.
 
