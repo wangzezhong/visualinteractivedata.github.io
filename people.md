@@ -76,6 +76,10 @@
 
 # Alumni
 
+## PhD Interns
+
+[Zhutian Chen](https://chenzhutian.org/), Honkong University (2019)
+
 ## MRes 
 Qiuyuan Ren (2018)
 
