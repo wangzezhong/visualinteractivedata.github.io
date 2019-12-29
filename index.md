@@ -13,8 +13,12 @@ Visual+Interactive Data is heavily involved in co-organizing Edinburgh's [Data V
 
 <table>
   <tr>
-    <td><img src="figures=cheatsheets" width="200px"/><a href="https://sites.google.com/view/datavisualizationcheatsheet">Data Visualization Cheat Sheets</a></td>
+    <td><img src="figures/cheatsheets.png" width="200px"/><a href="https://sites.google.com/view/datavisualizationcheatsheet">Data Visualization Cheat Sheets</a></td>
   </tr>
+  <tr>
+    <td><img src="figures/vistorian-3.png" width="200px"/><a href="htp://Vistorian.net">The Vistorian: Interactive Visualizations for Dynamic and Multivariate Networks.</a></td>
+  </tr>
+
 </table>
 
 * **[Data Visualization Cheat Sheets](https://sites.google.com/view/datavisualizationcheatsheet)**
