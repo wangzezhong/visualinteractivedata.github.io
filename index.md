@@ -1,4 +1,4 @@
-[People](pages/people.md) | 
+[People](./people.html) | 
 [Resources](people) |
 [Teaching](./people.html) |
 [Projects](./people.md) |
