@@ -12,7 +12,7 @@ Visual+Interactive Data is heavily involved in co-organizing Edinburgh's [Data V
 ## Online Projects
 
 * **[Data Visualization Cheat Sheets](https://sites.google.com/view/datavisualizationcheatsheet)**
-* **[Survey of geographic networks](https://geographic-networks.github.io/) 
+* **[Survey of geographic networks](https://geographic-networks.github.io/)**
 * **[DXR](https://sites.google.com/view/dxr-vis)** a toolkit for immersive data visualizations 
 * **[IATK](https://github.com/MaximeCordeil/IATK)** another toolkit for immersive data visualizations
 * **[Vistorian.net](Vistorian.net)**: Interactive Visualizations for Dynamic and Multivariate Networks.
