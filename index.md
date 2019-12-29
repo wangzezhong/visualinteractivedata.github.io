@@ -27,8 +27,7 @@ Fritz Lekschas, Michael Behrisch, Benjamin Bach, Peter Kerpedjiev, Nils Gehlenbo
 
 ### 2019
 ![](figures/schoettler2019geographic.png)
-**[Geographic Network Visualization Techniques: A Work-In-Progress Taxonomy]
-(https://www.google.com/url?q=https%3A%2F%2Fgeographic-networks.github.io%2Fabstract.pdf&sa=D&sntz=1&usg=AFQjCNE14-21ZgF1E9MSvOJI2LrMlgSNIg)**
+**[Geographic Network Visualization Techniques: A Work-In-Progress Taxonomy](https://www.google.com/url?q=https%3A%2F%2Fgeographic-networks.github.io%2Fabstract.pdf&sa=D&sntz=1&usg=AFQjCNE14-21ZgF1E9MSvOJI2LrMlgSNIg)**
 Sarah Schöttler, Tobias Kauer, Benjamin Bach: *Poster at Graph Drawing, (2019)*
 
 [Weblink](https://geographic-networks.github.io)
