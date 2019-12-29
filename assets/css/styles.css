@@ -9,7 +9,7 @@ h2 {
 	font-size: 40pt;
 }
 
-img[alt="publication"] {
+img[alt~="publication"] {
 	width: 150px;
 	margin-left: 20px;
 }
