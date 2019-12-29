@@ -7,6 +7,8 @@ __Visual+Interactive Data__ is a research group that investigates data visualiza
 * Non-digital visualization
 * Teaching and learning visualization, Visual Analytics
 
+Visual+Interactive Data is heavily involved in co-organizing Edinburgh's [Data Vis Meetup](https://www.meetup.com/meetup-group-vBHbCmgh). Get in touch with is if you want to become involved.
+
 ## Online Projects
 
 * **[Data Visualization Cheat Sheets](https://sites.google.com/view/
