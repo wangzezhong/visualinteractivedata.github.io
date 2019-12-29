@@ -4,8 +4,8 @@
 
 <table>
   <tr>
-    <td width="150px"><img src="people/bach.png"/></td>
-    <td>
+    <td style="vertical-align:top;width:150px;"><img src="people/bach.png"/></td>
+    <td style="vertical-align:top;">
       <b>Benjamin Bach</b> 
       is a <i>Lecturer (Assistant Prof.) in Design Informatics and Visualization </i> at the University of Edinburgh. His research designs and investigates interactive information visualization interfaces to help people explore, communicate, and understand data across media such as screens, mixed reality, paper, and physicalizations.
       <br/>
@@ -18,8 +18,8 @@
 
 <table>
   <tr>
-    <td width="150px"><img src="people/wang.png" style="width:150px;float:left;margin-left:10px"/></td>
-    <td>
+   <td style="vertical-align:top;width:150px;"><img src="people/wang.jpg" style="width:150px;float:left;margin-left:10px"/></td>
+    <td style="vertical-align:top;">
       <b>Zezhong Wang</b> working on <i>Methods for Creating and Teaching Data Comics</i>.
       <br/>
       <a href="https://scholar.google.com/citations?user=EJ8drhwAAAAJ&hl=en&oi=ao">Google Scholar</a>
