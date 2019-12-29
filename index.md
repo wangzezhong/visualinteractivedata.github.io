@@ -21,6 +21,8 @@ __Visual+Interactive Data__ is a research group that investigates data visualiza
 ## Publications
 
 <img src="figures/lekschas2020scalabl.png" width="200px"/>
+[Pattern-Driven Navigation in 2D Multiscale Visualizations with Scalable Insets](https://vcg.seas.harvard.edu/publications/pattern-driven-navigation-in-2d-multiscale-visualizations-with-scalable-insets)
+Fritz Lekschas, Michael Behrisch, Benjamin Bach, Peter Kerpedjiev, Nils Gehlenborg, Hanspeter Pfister, *IEEE Transactions on Visualization and Computer Graphics (TVCG) 2020 (IEEE VIS, 2019))*  
 
 
 ## People 
