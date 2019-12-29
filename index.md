@@ -61,11 +61,7 @@ Zezhong Wang, Harvey Dingwal, Benjamin Bach.  ACM Conference on Human Factors in
 **[DXR: A Toolkit for Building Immersive Data Visualizations](papers/sicat2019dxr.pdf)**
 Sicat, Ronell, Jiabao Li, JunYoung Choi, Maxime Cordeil, Won-Ki Jeong, Benjamin Bach, and Hanspeter Pfister. *IEEE transactions on visualization and computer graphics (2019) (IEEE VIS 2018).*
 
-
-## People 
-
-
-## Joining
+## Joining Us
 
 * **PhD:** Please contact me directly (e.g., at VIS in Vancouver at the moment). (Competitive) Funding is available.
 * **MSc dissertation:** Check how to plan your project and contact me directly. Ideally, we combine your DI project and MSc * to run roughly on the same topic.
