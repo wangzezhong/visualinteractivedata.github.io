@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 
-h2 ~ img{
-	width=150px;
-	margin-left=20px;
+h2 ~ img {
+	width: 150px;
+	margin-left: 20px;
 }
