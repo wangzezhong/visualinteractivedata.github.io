@@ -3,7 +3,7 @@
 ## Faculty 
 
 <div class="person">
-  <img src="figures/bach.png" styles="width:150px;float:left;"/>
+  <img src="people/bach.png" styles="width:150px;float:left;"/>
   <b>Benjamin Bach</b> a <i>Lecturer (Assistant Prof.) in Design Informatics and Visualization </i> at the University of Edinburgh. His research designs and investigates interactive information visualization interfaces to help people explore, communicate, and understand data across media such as screens, mixed reality, paper, and physicalizations.
     <br/>
   <a href="https://scholar.google.com/citations?user=dXbz4FgAAAAJ&hl=en&oi=ao">Google Scholar</a>
@@ -13,7 +13,7 @@
 ## PhD Students 
 
 <div class="person">
-  <img src="figures/wang.png" styles="width:150px;float:left;"/>
+  <img src="people/wang.png" styles="width:150px;float:left;"/>
   <b>Zezhong Wang</b> working on <i>Methods for Creating and Teaching Data Comics</i>.
   <br/>
   <a href="https://scholar.google.com/citations?user=EJ8drhwAAAAJ&hl=en&oi=ao">Google Scholar</a>
