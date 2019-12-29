@@ -4,7 +4,7 @@
 Benjamin is a Lecturer (Assistant Prof.) in Design Informatics and Visualization at the University of Edinburgh. His research designs and investigates interactive information visualization interfaces to help people explore, communicate, and understand data across media such as screens, mixed reality, paper, and physicalizations.
 
 ## Contact
-**Phy.:** Informatics Forum (IF 4.30), 10 Crichton St, Edinburgh
+**Office:** [Informatics Forum (IF 4.30), 10 Crichton St, Edinburgh](https://www.google.com/maps/place/10+Crichton+St,+Edinburgh+EH8+9AB,+UK/data=!4m2!3m1!1s0x4887c78381f1372f:0x8f0142034b156141?sa=X&ved=2ahUKEwjljc_o9NnmAhVj7nMBHX0QBJAQ8gEwAHoECAsQAQ)
 **Email:** [bbach@inf.ed.ac.uk](mailtp:bbach@inf.ed.ac.uk)
 **Twitter:** [@benjbach](https://twitter.com/benjbach)
 
