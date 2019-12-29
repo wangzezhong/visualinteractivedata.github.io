@@ -2,6 +2,7 @@
 
 ## Faculty 
 
+![people](people/bach.png)
 **Benjamin Bach**  
 
 
