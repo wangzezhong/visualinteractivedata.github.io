@@ -1,7 +1,7 @@
 [People](pages/people.md) | 
 [Resources](people) |
-[Teaching](pages/people) |
-[Projects](people.md) |
+[Teaching](./people.html) |
+[Projects](./people.md) |
 [Publications](teaching) |
 [Working with us]()
 
