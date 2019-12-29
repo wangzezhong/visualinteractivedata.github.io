@@ -59,7 +59,7 @@
   <tr>
    <td style="vertical-align:top;width:150px;"><img src="people/default.png" style="width:150px;float:left;margin-left:10px"/></td>
     <td style="vertical-align:top;">
-      <b>John Harper-Lee</b> working on <i>Temporal Design</i>.
+      <b>Ryan Bowler</b> working on <i>Temporal Design</i>.
       <br/>
       <a href="https://scholar.google.com/citations?user=qDN6jW4AAAAJ&hl=en&oi=ao">Google Scholar</a>
     </td>
