@@ -1,7 +1,7 @@
-[People](people) +++ 
-[Resources](resources) +
-[Teaching](teaching) +
-[Projects](teaching) +
+[People](people) | 
+[Resources](resources) |
+[Teaching](teaching) |
+[Projects](teaching) |
 [Publications](teaching) |
 [Working with us]()
 
@@ -20,7 +20,7 @@ __Visual+Interactive Data__ is a research group that investigates data visualiza
 
 ## Publications
 
-![](./figures/pic1s.png =250x)
+![](figures/lekschas2020scalable.png =250x)
 
 
 ## People 
