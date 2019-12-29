@@ -84,4 +84,11 @@ Benjamin Bach, Maxime Cordeil, Ulrich Engelke, Marcos Serrano, Wesley Willett
 * **Interactive Visualization of Dynamic Multivariate Networks with the Vistorian**: Benjamin Bach, Workshop at The Connected Past, University of Bournemouth, 2017
 * **Immersive Analytics**: Exploring Future Interaction and Visualization Technologies for Data Analytics: B Bach, R Dachselt, S Carpendale, T Dwyer, C Collins, B Lee. Proceedings of the 2016 ACM on Interactive Surfaces and Spaces, 529-533
  
+## Teaching 
 
+### Ongoing
+* **Data Science for Design**, semester 1 (master level)
+* **Data Visualisation**, semester 2 (master level)
+
+### Past
+* **The Human Factor**
