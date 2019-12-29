@@ -1,4 +1,4 @@
-__Visual<b style="color:red;">+</b>Interactive Data__ is a research group that investigates data visualizations and intreractive means to make data more immediate, tangible, and understandable. _Visual+Interactive Data_ is based at the [Institute for Design Informatics](https://www.designinformatics.org/) and the [School of Informatics](https://www.ed.ac.uk/informatics) at the [University of Edinburgh](https://www.ed.ac.uk/).  Our research includes, but is not limites to the following areas:
+__Visual<b style="color:red;">+</b>Interactive Data__ is a research group that investigates data visualizations and intreractive means to make data more immediate, tangible, and understandable. _Visual+Interactive Data_ is based at the [Institute for Design Informatics](https://www.designinformatics.org/) and the [School of Informatics](https://www.ed.ac.uk/informatics) at the [University of Edinburgh](https://www.ed.ac.uk).  Our research includes, but is not limites to the following areas:
 
 * Network Visualization
 * Visualization of spatio-temporal data
@@ -9,7 +9,7 @@ __Visual<b style="color:red;">+</b>Interactive Data__ is a research group that i
 
 Visual+Interactive Data is heavily involved in co-organizing Edinburgh's [Data Vis Meetup](https://www.meetup.com/meetup-group-vBHbCmgh). Get in touch with is if you want to become involved.
 
-## Online Projects
+## Latest and Greatest
 
 * **[Data Visualization Cheat Sheets](https://sites.google.com/view/datavisualizationcheatsheet)**
 * **[Survey of geographic networks](https://geographic-networks.github.io/)**
