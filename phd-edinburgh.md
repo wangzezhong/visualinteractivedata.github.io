@@ -29,7 +29,6 @@ A search interface is provided here: https://www.ed.ac.uk/student-funding/searc
 ). 16k / a, first used towards tuition, rest is stipend
 deadline: ~January
 
-
 * [ECA interdisciplinary PhD Scholarship](https://www.ed.ac.uk/student-funding/postgraduate/uk-eu/humanities/edinburgh-college-of-art/eca-interdisciplinary
 ). 16k / a, first used towards tuition, rest is stipend
 deadline: ~January
@@ -42,7 +41,7 @@ Applicants must also apply to [Edinburgh Global](https://www.ed.ac.uk/student-fu
 * [CDT Data Science](http://datascience.inf.ed.ac.uk/apply). Deadlines Dec 7 (all), Jan 25 (EU/UK), March 15 (U
 4 years PhD program, including 1 taught year.
 
-##Covering salary plus EU/UK tuition
+## Covering salary plus EU/UK tuition
 
 * [Principal's PhD Scholarship](https://www.ed.ac.uk/student-funding/postgraduate/uk-eu/university-scholarships/development%20). 45 University scholarships
 UK, EU, overseas, PhD and MRes?, Not eligible for consecutive registration, Outstanding academic merit: UK first class or 2:1 honours degree (~upper 15%)
