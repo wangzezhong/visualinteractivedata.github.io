@@ -12,10 +12,10 @@ Visual+Interactive Data is heavily involved in co-organizing Edinburgh's [Data V
 ## Selected Projects (more under [publications](publications.html))
 
 ![](figures/cheatsheets.png)
-### **[Data Visualization Cheat Sheets](https://sites.google.com/view/datavisualizationcheatsheet)**
+**[Data Visualization Cheat Sheets](https://sites.google.com/view/datavisualizationcheatsheet)**
 
 ![](figures/immersiveanalytics.png)
-### **[DXR](https://sites.google.com/view/dxr-vis)** and **[IATK](https://github.com/MaximeCordeil/IATK)**, two toolkits for immersive data visualizations. Check our [latest workshop at CHI 2020](http://immersiveanalytics.io).
+**[DXR](https://sites.google.com/view/dxr-vis)** and **[IATK](https://github.com/MaximeCordeil/IATK)**, two toolkits for immersive data visualizations. Check our [latest workshop at CHI 2020](http://immersiveanalytics.io).
 
 ![](figures/vistorian.png)
 **[Vistorian.net](Vistorian.net)**: Interactive Visualizations for Dynamic and Multivariate Networks.
