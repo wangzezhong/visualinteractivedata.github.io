@@ -3,6 +3,9 @@
 
 @import "{{ site.theme }}";
 
+h2 {
+	font-family: 'Comfortaa';
+}
 
 h2 ~ img {
 	width: 150px;
