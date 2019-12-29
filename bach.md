@@ -1,7 +1,7 @@
 [Contact](#contact) |
 [Reserach Interests](#research-interests) |
 [Short Bio](#short-bio) |
-[Publications](https://scholar.google.com/citations?view_op=search_authors&mauthors=benjamin+bach&hl=en&oi=ao) |
+[Publications](https://scholar.google.com/citations?hl=en&user=dXbz4FgAAAAJ) |
 [Awards](#awards) |
 [Professional Activities](#professional-activties) |
 [Reviewing](#reviewing) |
@@ -38,7 +38,7 @@ Before joining the University of Edinburgh in 2017, Benjamin worked as a postdoc
 
 ## Publications 
 
-[Google Scholar](https://scholar.google.com/citations?view_op=search_authors&mauthors=benjamin+bach&hl=en&oi=ao)
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=dXbz4FgAAAAJ)
 
 ## Awards
 
