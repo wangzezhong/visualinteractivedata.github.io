@@ -51,20 +51,22 @@ Sicat, Ronell, Jiabao Li, JunYoung Choi, Maxime Cordeil, Won-Ki Jeong, Benjamin 
 **[Multisensory immersive analytics](https://research.bangor.ac.uk/portal/files/22078708/immersiveAnalyticsRobertsChapter.pdf)**
 McCormack, Jon, Jonathan C. Roberts, Benjamin Bach, Carla Dal Sasso Freitas, Takayuki Itoh, Christophe Hurter, and Kim Marriott. *In Immersive Analytics, pp. 57-94. Springer, Cham, 2018.*
 
-![](figures/mccormack2018multisensorial.png)
+![](figures/borgo2018crowsourcing.png)
 **[Information Visualization Evaluation Using Crowdsourcing](https://www.microsoft.com/en-us/research/uploads/prod/2018/05/InfoVis-Crowdsourcing-CGF2018.pdf)**
 Borgo, Rita, L. Micallef, B. Bach, F. McGee, and B. Lee. *n Computer Graphics Forum, vol. 37, no. 3, pp. 573-595. 2018.*
 
-![](figures/mccormack2018multisensorial.png)
+![](figures/bach2018ways.png)
 **[Ways of Visualizing Data on Curves](https://hal.inria.fr/hal-01818137/document)**
 Bach, Benjamin, Charles Perin, Qiuyuan Ren, and Pierre Dragicevic. *In TransImage 2018-5th Biennial Transdisciplinary Imaging Conference, pp. 1-14. 2018.*
 
 [Weblink](https://dataoncurves.wordpress.com)
 
 
-![](figures/mccormack2018multisensorial.png)
+![](figures/bach2018narrative.png)
 **[Narrative Design Patterns for Data-Driven Storytelling](https://www.taylorfrancis.com/books/e/9781315281575/chapters/10.1201/9781315281575-5)**
 Bach, Benjamin, Moritz Stefaner, Jeremy Boy, Steven Drucker, Lyn Bartram, Jo Wood, Paolo Ciuccarelli, Yuri Engelhardt, Ulrike Koeppen, and Barbara Tversky. *In Data-Driven Storytelling, pp. 125-152. AK Peters/CRC Press, 2018.*
+
+[Weblink](http://napa-cards.net)
 
 ![](figures/diehl2018visguides.png)
 **[VisGuides: A forum for discussing visualization guidelines](https://www.google.com/url?q=https%3A%2F%2Fdl.acm.org%2Fcitation.cfm%3Fid%3D3290790&sa=D&sntz=1&usg=AFQjCNFLFC4DdPLHXPvRvLEGVnZsjCIrrg)**
