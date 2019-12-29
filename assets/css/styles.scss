@@ -2,14 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
-
 h2 {
 	font-family: 'Comfortaa';
 	color: 'red';
 	font-size: 40pt;
-}
-
-img[alt~="publication"] {
-	width: 150px;
-	margin-left: 20px;
 }
