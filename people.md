@@ -6,7 +6,7 @@
   <tr>
     <td style="vertical-align:top;width:150px;"><img src="people/bach.png"/></td>
     <td style="vertical-align:top;">
-      <b>Benjamin Bach</b> 
+      <b><a href="pages/bach.html">Benjamin Bach</a></b> 
       is a <i>Lecturer (Assistant Prof.) in Design Informatics and Visualization </i> at the University of Edinburgh. His research designs and investigates interactive information visualization interfaces to help people explore, communicate, and understand data across media such as screens, mixed reality, paper, and physicalizations.
       <br/>
       <a href="https://scholar.google.com/citations?user=dXbz4FgAAAAJ&hl=en&oi=ao">Google Scholar</a>
