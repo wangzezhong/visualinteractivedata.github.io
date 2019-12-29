@@ -9,7 +9,13 @@ __Visual<b style="color:red;">+</b>Interactive Data__ is a research group that i
 
 Visual+Interactive Data is heavily involved in co-organizing Edinburgh's [Data Vis Meetup](https://www.meetup.com/meetup-group-vBHbCmgh). Get in touch with is if you want to become involved.
 
-## Latest and Greatest
+## Selected Projects
+
+<table>
+  <tr>
+    <td><img src="figures=cheatsheets" width="200px"/><a href="https://sites.google.com/view/datavisualizationcheatsheet">Data Visualization Cheat Sheets</a></td>
+  </tr>
+</table>
 
 * **[Data Visualization Cheat Sheets](https://sites.google.com/view/datavisualizationcheatsheet)**
 * **[Survey of geographic networks](https://geographic-networks.github.io/)**
