@@ -13,7 +13,7 @@
 ## PhD Students 
 
 <div class="person">
-  <img src="people/wang.jpg" styles="width:150px;float:left;"/>
+  <img src="people/wang.jpg" style="width:150px;float:left;"/>
   <b>Zezhong Wang</b> working on <i>Methods for Creating and Teaching Data Comics</i>.
   <br/>
   <a href="https://scholar.google.com/citations?user=EJ8drhwAAAAJ&hl=en&oi=ao">Google Scholar</a>
