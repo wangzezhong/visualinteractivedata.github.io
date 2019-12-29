@@ -1,8 +1,5 @@
 theme: jekyll-theme-minimal
-title: " "
-description: ""
 logo: "figures/logo.png"
-show_downloads: false
 relative_links:
   enabled: true
   collections: true
