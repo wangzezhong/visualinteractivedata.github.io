@@ -67,7 +67,7 @@ Sicat, Ronell, Jiabao Li, JunYoung Choi, Maxime Cordeil, Won-Ki Jeong, Benjamin 
 ## People 
 
 
-## Working with us
+## Joining
 
 * **PhD:** Please contact me directly (e.g., at VIS in Vancouver at the moment). (Competitive) Funding is available.
 * **MSc dissertation:** Check how to plan your project and contact me directly. Ideally, we combine your DI project and MSc * to run roughly on the same topic.
