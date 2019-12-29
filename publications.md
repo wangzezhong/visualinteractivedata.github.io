@@ -1,4 +1,4 @@
-[2020](#2020) | [2019](#2019) |  [2018](#2018) |  [2017](#2017)
+[2020](#2020) | [2019](#2019) |  [2018](#2018) |  [2017](#2017) |  [2016](#2016) |  [2015](#2015) |  [2014](#2014) |  [2013](#2013)
 
 
 # Publications
@@ -144,7 +144,7 @@ Michael Behrisch, Benjamin Bach, Michael Hund, Michael Delz, Laura von Rueden, J
 IEEE Transactions on Visualization and Computer Graphics (TVCG)
 
 
-![](figures/bach2017confluence.png.png)
+![](figures/bach2017confluence.png)
 **[Towards Unambiguous Edge Bundling: Investigating Confluent Drawings for Network Visualization](https://aviz.fr/~bbach/confluentgraphs/Bach2016confluentgraphs.pdf)**
 Benjamin Bach, Nathalie Henry Riche, Christophe Hurter, Kim Marriott, Tim Dwyer
 IEEE Transactions on Visualization and Computer Graphics (TVCG)
@@ -153,12 +153,12 @@ IEEE Transactions on Visualization and Computer Graphics (TVCG)
 
 ## 2016
 
-![](figures/bach2016telling.png.png)
+![](figures/bach2016telling.png)
 **[Telling Stories about Dynamic Networks with Graph Comics]](https://hal.inria.fr/hal-01256099/document)**
 Benjamin Bach, Nathalie Kerracher, Kyle W. Hall, Sheelagh Carpendale, Jessie Kennedy, Nathalie Henry Riche
 Proceedings of the Conference on Human Factors in Information Systems (CHI)
 
-![](figures/bach2016descriptive.png.png)
+![](figures/bach2016descriptive.png)
 **[A Descriptive Framework for Temporal Data Visualizations Based on Generalized Space‐Time Cubes](https://hal-enac.archives-ouvertes.fr/hal-01303506/file/Bach2016spacetimecubes.pdf)**
 Benjamin Bach, Pierre Dragicevic, Daniel Archambault, Christophe Hurter, Sheelagh Carpendale
 Computer Graphics Forum
@@ -170,12 +170,65 @@ IEEE Computer Graphics and Applications 36 (2), 74-82
 ![](figures/brehmer2016timelines.png)
 **[Timelines Revisited: A Design Space and Considerations for Expressive Storytelling](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/10/Brehmer-TVCG-2017.pdf)**. Matthew Brehmer, Bongshin Lee, Benjamin Bach, Nathalie Henry Riche, Tamara Munzner. IEEE Transactions on Visualization and Computer Graphics (TVCG, Proceedings of InfoVis 2015)
 
-![](figures/behrisch2016matrix.png.png)
+![](figures/behrisch2016matrix.png)
 **[Matrix Reordering Methods for Table and Network Visualization](https://hal.inria.fr/hal-01326759/document)**
 Michael Behrisch, Benjamin Bach, Nathalie Henry Riche, Tobias Schreck, Jean-Daniel Fekete
 EuroVis (State-of-the-Art) 35 (3)
 
-![](figures/bach2016timecurves.png.png)
+![](figures/bach2016timecurves.png)
 **[Time Curves: Folding Time to Visualize Patterns of Temporal Evolution in Data](https://aviz.fr/~bbach/timecurves/Bach2015timecurves.pdf)**
 Benjamin Bach, Conglei Shi, Nicholas Heulot, Tara Madhyastha, Thomas Grabowski, Pierre Dragicevic
 IEEE Transactions on Visualization and Computer Graphics (TCVG), 2016
+
+## 2015
+
+NetworkCube: Bringing Dynamic Network Visualizations to Domain Scientists
+B Bach, NH Riche, R Fernandez, E Giannisakis, B Lee, JD Fekete
+Proceedings of IEEE VIS Conference, posters
+
+![](figures/bach2015smallmultipiles.png)
+**[Small MultiPiles: Piling Time to Explore Temporal Patterns in Dynamic Networks](https://hal.inria.fr/hal-01158987/document)**
+B Bach, N Henry Riche, T Dwyer, T Madhyastha, JD Fekete, T Grabowski
+Eurographics Conference on Visualization (EuroVis)
+
+[Weblink](https://aviz.fr/~bbach/multipiles)
+
+Visual and Audio Monitoring of Island Based Parallel Evolutionary Algorithms
+H Gilbert, W Cancino, B Bach, J Pallamidessi, P Parrend, P Collet
+Journal of Grid Computing 3 (13), 309-327.(2015)
+
+A Review of Temporal Data Visualizations Based on Space-Time Cube Operations
+B Bach, P Dragicevic, D Archambault, C Hurter, S Carpendale
+Eurographics Conference on Visualization
+
+## 2014
+
+![](figures/bach2014matrixcubes.png.png)
+**[Visualizing Dynamic Networks with Matrix Cubes](https://hal.inria.fr/hal-00931911v1/document)**
+Benjamin Bach, Emmauel Pietriga, Jean-Daniel Fekete
+Proceedings of the SIGCHI Conference on Human Factors in Computing Systems (CHI). 2014
+
+GridVis: Visualisation of Island-Based Parallel Genetic Algorithms
+L Evelyne, G Hugo, C Waldo, B Bach, P Pierre, C Pierre
+Parallel Architectures and Distributed Infrastructures (EvoStar)
+
+Gridvis: Visualisation of island-based parallel genetic algorithms
+E Lutton, H Gilbert, W Cancino, B Bach, P Parrend, P Collet
+European Conference on the Applications of Evolutionary Computation, 702-713
+
+Visual and Audio Monitoring of Island Based Parallel Evolutionary Algorithms
+E Lutton, H Gilbert, W Cancino, B Bach, J Pallamidessi, P Parrend, ...
+Journal of Grid Computing, 1-19
+
+![](figures/bach2014graphdiaries.png)
+**[GraphDiaries: Animated Transitions and Temporal Navigation for Dynamic Networks](https://aviz.fr/~bbach/graphdiaries/Bach2013GraphDiaries.pdf)**
+B Bach, E Pietriga, JD Fekete
+Transactions on Visualization and Computer Graphics (TVCG), 1-1
+
+
+## 2013
+
+![](figures/alper2013weighted.png)
+**[Weighted graph comparison techniques for brain connectivity analysis](https://hal.inria.fr/hal-00780999/document)**
+B Alper, B Bach, N Henry Riche, T Isenberg, JD Fekete
+Proceedings of the SIGCHI Conference on Human Factors in Computing Systems …
