@@ -7,12 +7,11 @@ __Visual+Interactive Data__ is a research group that investigates data visualiza
 * Non-digital visualization
 * Teaching and learning visualization, Visual Analytics
 
-
-[People](people)
-[Resources](resources)
-[Teaching](teaching)
-[Projects](teaching)
-[Publications](teaching)
+[People](people) | 
+[Resources](resources) |
+[Teaching](teaching) |
+[Projects](teaching) |
+[Publications](teaching) |
 [Working with us]()
 
 ## Latest
