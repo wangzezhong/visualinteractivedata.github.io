@@ -1,5 +1,5 @@
 __Visual<b style="color:red;">+</b>Interactive Data__ is a research group that investigates data visualizations and intreractive means to make data more immediate, tangible, and understandable across a variety of media such as paper, screen, and immersive. _Visual+Interactive Data_ is based at the [Institute for Design Informatics](https://www.designinformatics.org/) and the [School of Informatics](https://www.ed.ac.uk/informatics) at the [University of Edinburgh](https://www.ed.ac.uk). Our research includes, but is not limited to areas in 
-* network nisualization, 
+* network vnisualization, 
 * visualization of spatio-temporal data, 
 * data-driven storytelling, 
 * visualization in augmented and virtual reality (Immersive Analytics), 
@@ -30,3 +30,4 @@ Visual<b style="color:red;">+</b>Interactive Data is heavily involved in co-orga
 * **PhD:** Please [contact us](mailto:bbach@ed.ac.uk) directly. (Competitive) [Funding](phd-edinburgh.html) might be is available.
 * **MSc dissertation:** [Check how to plan your project](project-planning.html) and [contact us](mailto:bbach@ed.ac.uk). Ideally, we combine your DI project and MSc to work on the same topic.
 * **Research internships** are possible all year around. The University asks for a fee for more than 12. Funding might be available for selected projects.
+
