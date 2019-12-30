@@ -20,7 +20,7 @@ Visual<b style="color:red;">+</b>Interactive Data is heavily involved in co-orga
 **[DXR](https://sites.google.com/view/dxr-vis)** and **[IATK](https://github.com/MaximeCordeil/IATK)** are two toolkits for creating immersive data visualizations in augmented and virtual reality. Check how to participate in our [upcoming workshop at CHI 2020](http://immersiveanalytics.io).
 
 ![](figures/vistorian.png)
-**[Vistorian.net](Vistorian.net)**: Interactive Visualizations for Dynamic and Multivariate Networks. Free, online, and open source. More information on the Vistorian-blog. 
+**[The Vistorian](Vistorian.net)** is an Interactive Visualizations for Dynamic and Multivariate Networks. Free, online, and open source. More information on the Vistorian-blog. 
 
 ![](figures/curves.png)
 **[DataOnCurves.wordpress.com](DataOnCurves.wordpress.com)** is a collection of visualizations based on curves and lines.
