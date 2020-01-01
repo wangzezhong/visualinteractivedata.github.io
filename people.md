@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td style="vertical-align:top;width:150px;"><img src="people/bach.png"/></td>
+    <td style="vertical-align:top;width:100px;"><img src="people/bach.png"/></td>
     <td style="vertical-align:top;">
       <b><a href="bach.html">Benjamin Bach</a></b> 
       is a <i>Lecturer (Assistant Prof.) in Design Informatics and Visualization </i> at the University of Edinburgh. His research designs and investigates interactive information visualization interfaces to help people explore, communicate, and understand data across media such as screens, mixed reality, paper, and physicalizations.
@@ -11,7 +11,7 @@
     </td>
 </tr>
 <tr>
-   <td style="vertical-align:top;width:150px;"><img src="people/wang.jpg" style="width:150px;float:left;margin-left:10px"/></td>
+   <td style="vertical-align:top;width:100px;"><img src="people/wang.jpg" style="width:150px;float:left;margin-left:10px"/></td>
     <td style="vertical-align:top;">
       <b>Zezhong Wang</b> working on <i>Methods for Creating and Teaching Data Comics</i>.
       <br/>
@@ -22,7 +22,7 @@
   </tr>
   
   <tr>
-   <td style="vertical-align:top;width:150px;"><img src="people/kauer.jpg" style="width:150px;float:left;margin-left:10px"/></td>
+   <td style="vertical-align:top;width:100px;"><img src="people/kauer.jpg" style="width:150px;float:left;margin-left:10px"/></td>
     <td style="vertical-align:top;">
       <b>Tobias Kauer</b> working on <i>Discursive Data Visualization</i>.
       <br/>
@@ -33,14 +33,14 @@
   </tr>
   
   <tr>
-   <td style="vertical-align:top;width:150px;"><img src="people/default.png" style="width:150px;float:left;margin-left:10px"/></td>
+   <td style="vertical-align:top;width:100px;"><img src="people/default.png" style="width:150px;float:left;margin-left:10px"/></td>
     <td style="vertical-align:top;">
       <b>Mashael Hamad Alkadi</b> working on <i>Learning Analytics</i>.
     </td>
   </tr>
 
   <tr>
-   <td style="vertical-align:top;width:150px;"><img src="people/harper-lee.jpg" style="width:150px;float:left;margin-left:10px"/></td>
+   <td style="vertical-align:top;width:100px;"><img src="people/harper-lee.jpg" style="width:150px;float:left;margin-left:10px"/></td>
     <td style="vertical-align:top;">
       <b>John Harper-Lee</b> working on <i>Biological Data Analysis</i>.
       <br/>
@@ -49,7 +49,7 @@
   </tr>
   
   <tr>
-   <td style="vertical-align:top;width:150px;"><img src="people/default.png" style="width:150px;float:left;margin-left:10px"/></td>
+   <td style="vertical-align:top;width:100px;"><img src="people/default.png" style="width:150px;float:left;margin-left:10px"/></td>
     <td style="vertical-align:top;">
       <b>Ryan Bowler</b> working on <i>Temporal Design</i>.
       <br/>
