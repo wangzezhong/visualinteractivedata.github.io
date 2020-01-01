@@ -1,7 +1,5 @@
 # People
 
-## Faculty 
-
 <table>
   <tr>
     <td style="vertical-align:top;width:150px;"><img src="people/bach.png"/></td>
@@ -12,13 +10,7 @@
       <a href="https://scholar.google.com/citations?user=dXbz4FgAAAAJ&hl=en&oi=ao">Google Scholar</a>
     </td>
 </tr>
-</table>
-
-## PhD Students 
-
-<table>
-
-  <tr>
+<tr>
    <td style="vertical-align:top;width:150px;"><img src="people/wang.jpg" style="width:150px;float:left;margin-left:10px"/></td>
     <td style="vertical-align:top;">
       <b>Zezhong Wang</b> working on <i>Methods for Creating and Teaching Data Comics</i>.
@@ -67,12 +59,7 @@
   
 </table>
 
-
-## Master by Research 
-
 **Vebjørn Halvfjerdvik**  
-
-## Intern
 
 # Alumni
 
