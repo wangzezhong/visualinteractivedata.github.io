@@ -9,17 +9,17 @@ Before filling and submitting the form, read through this page, prepare any of t
 * [Informatics Website](http://web.inf.ed.ac.uk/infweb/research/ethics-and-integrity/ethics-procedure)
 * [Ethics submission Form](https://edinburgh.eu.qualtrics.com/jfe/form/SV_5cfS62HqfJDeCRT)
 
-## What you need before submitting the [Ethics submission Form](https://edinburgh.eu.qualtrics.com/jfe/form/SV_5cfS62HqfJDeCRT)
+## What you need before submitting the [Form](https://edinburgh.eu.qualtrics.com/jfe/form/SV_5cfS62HqfJDeCRT)
 
-### Ethics training
+### 1. Ethics training
 
 You __need__ to pass the [basic training in data protction](http://www.ed.ac.uk/records-management/training/data-protection)
 
-### A consent form which will be signed by any of your participants
+### 2. A consent form which will be signed by any of your participants
 
 See an example [here](material/Consent_form_Study_Visualisation_Cheatsheet.pdf)
 
-### A 100 word description
+### 3. A 100 word description
 
 Please provide a brief summary of the goal and methods of your research. You should cover the following:
 * What is the goal of the study?
@@ -29,13 +29,13 @@ Please provide a brief summary of the goal and methods of your research. You sho
 
 It's enough to give high level descriptions of tasks and analysis methods. It helps if you can provide references.
 
-### Anonymization
+### 4. Anonymization Policy
 
 How do you ensure confidentiality? Describe your procedures for anonymisation / pseudonymisation, ensuring differential privacy, and other relevant procedures. Recommended length: 50 words. 
 
 Example response: _No personal data will be recorded at any time. Voice recordings will be stored on an encrypted HD for the duration of the study and erased afterwards._
 
-### Paricipant data
+### 5. Paricipant data
 
 What information about participants or data subjects will you collect or use? 
 
