@@ -4,8 +4,7 @@
   <tr>
     <td style="vertical-align:top;width:100px;"><img src="people/bach.png"/></td>
     <td style="vertical-align:top;">
-      <b><a href="bach.html">Benjamin Bach</a></b> 
-      is a <i>Lecturer (Assistant Prof.) in Design Informatics and Visualization </i> at the University of Edinburgh. His research designs and investigates interactive information visualization interfaces to help people explore, communicate, and understand data across media such as screens, mixed reality, paper, and physicalizations.
+      <b><a href="bach.html">Benjamin Bach</a></b>, Lecturer (Assistant Prof.) in Design Informatics and Visualization at the University of Edinburgh. His research designs and investigates interactive information visualization interfaces to help people explore, communicate, and understand data across media such as screens, mixed reality, paper, and physicalizations.
       <br/>
       <a href="https://scholar.google.com/citations?user=dXbz4FgAAAAJ&hl=en&oi=ao">Google Scholar</a>
     </td>
@@ -13,7 +12,7 @@
 <tr>
    <td style="vertical-align:top;width:100px;"><img src="people/wang.jpg" style="width:150px;float:left;margin-left:10px"/></td>
     <td style="vertical-align:top;">
-      <b>Zezhong Wang</b> working on <i>Methods for Creating and Teaching Data Comics</i>.
+      <b>Zezhong Wang</b>, PhD student working on <i>Methods for Creating and Teaching Data Comics</i>.
       <br/>
       <a href="https://www.google.com/url?q=https%3A%2F%2Fwww.designinformatics.org%2Fperson%2Fzezhong-wang%2F&sa=D&sntz=1&usg=AFQjCNHzUyBbeidHdj8inLnByMelDz7tjg">Personal website</a>
       <br/>
@@ -24,7 +23,7 @@
   <tr>
    <td style="vertical-align:top;width:100px;"><img src="people/kauer.jpg" style="width:150px;float:left;margin-left:10px"/></td>
     <td style="vertical-align:top;">
-      <b>Tobias Kauer</b> working on <i>Discursive Data Visualization</i>.
+      <b>Tobias Kauer</b>, PhD student working on <i>Discursive Data Visualization</i>.
       <br/>
       <a href="https://twitter.com/tobi_vierzwo">Personal website</a>      
       <br/>
@@ -35,7 +34,7 @@
   <tr>
    <td style="vertical-align:top;width:100px;"><img src="people/default.png" style="width:150px;float:left;margin-left:10px"/></td>
     <td style="vertical-align:top;">
-      <b>Mashael Hamad Alkadi</b> working on <i>Learning Analytics</i>.
+      <b>Mashael Hamad Alkadi</b>, PhD student working on <i>Learning Analytics</i>.
     </td>
   </tr>
 
