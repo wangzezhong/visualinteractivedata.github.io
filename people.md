@@ -8,8 +8,8 @@
       <br/>
       <a href="https://scholar.google.com/citations?user=dXbz4FgAAAAJ&hl=en&oi=ao">Google Scholar</a>
     </td>
-</tr>
-<tr>
+  </tr>
+  <tr>
    <td style="vertical-align:top;width:100px;"><img src="people/wang.jpg" style="width:150px;float:left;margin-left:10px"/></td>
     <td style="vertical-align:top;">
       <b>Zezhong Wang</b>, PhD student working on <i>Methods for Creating and Teaching Data Comics</i>.
