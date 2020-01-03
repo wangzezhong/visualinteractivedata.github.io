@@ -49,11 +49,10 @@
   </tr>
   
   <tr>
-   <td style="vertical-align:top;width:100px;"><img src="people/default.png" style="width:150px;float:left;margin-left:10px"/></td>
+   <td style="vertical-align:top;width:100px;"><img src="people/bowler.png" style="width:150px;float:left;margin-left:10px"/></td>
     <td style="vertical-align:top;">
-      <b>Ryan Bowler</b> working on <i>Temporal Design</i>.
+      <b>Ryan Bowler</b>, informatics PhD student researching ways to understand and implement the complexities of human time within Human-Computer-Interactions.
       <br/>
-      <a href="https://scholar.google.com/citations?user=qDN6jW4AAAAJ&hl=en&oi=ao">Google Scholar</a>
     </td>
   </tr>
   
