@@ -2,5 +2,4 @@
 
 * [Technical writing](technical-writing.html)
 * [Project planning](project-planning.html)
-* [PhD at Edinburgh University](phd-edinburgh)
 * [Ethics approval proceedure](ethics.html)
