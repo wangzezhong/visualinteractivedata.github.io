@@ -102,7 +102,7 @@ Benjamin Bach, Maxime Cordeil, Ulrich Engelke, Marcos Serrano, Wesley Willett
 
 ### Ongoing
 * **Data Science for Design**, semester 1 (master level)
-* **Data Visualisation**, semester 2 (master level)
+* [**Data Visualisation**](https://datavis2020.github.io), semester 2 (master level)
 
 ### Past
 * **The Human Factor**
