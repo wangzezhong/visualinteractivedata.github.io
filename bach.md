@@ -71,7 +71,7 @@ Before joining the University of Edinburgh in 2017, Benjamin worked as a postdoc
 
 (Not including conference presentations)
 
-* January 2020: [Dealing vis Data](pfds/dealing_vis_data_keynote.pdf): Keynote to Dealing with Data conference, Edinburgh  
+* January 2020: [Dealing vis Data](pdfs/dealing_vis_data_keynote.pdf): Keynote to Dealing with Data conference, Edinburgh  
 * June 2019: Visualizing Peace and Conflicts, Edinburgh Futures Seminar, University of Edinburgh 
 * May 2019: Data visualization for exploration, explanation and beyond, Kings College, London.
 * December 2018: Visualizing Space-Time Cubes in AR, Shonan Seminar to Immersive Analytics, Tokio.
