@@ -71,6 +71,7 @@ Before joining the University of Edinburgh in 2017, Benjamin worked as a postdoc
 
 (Not including conference presentations)
 
+* January 2020: [Dealing vis Data](pfds/dealing_vis_data_keynote.pdf): Keynote to Dealing with Data conference, Edinburgh  
 * June 2019: Visualizing Peace and Conflicts, Edinburgh Futures Seminar, University of Edinburgh 
 * May 2019: Data visualization for exploration, explanation and beyond, Kings College, London.
 * December 2018: Visualizing Space-Time Cubes in AR, Shonan Seminar to Immersive Analytics, Tokio.
@@ -82,7 +83,7 @@ Before joining the University of Edinburgh in 2017, Benjamin worked as a postdoc
 * May 2918: Drawing into the AR-Canvas: Designing Embedded Visualizations for Augmented Reliaty., OpenVis Conference, Paris
 * March 2018: Visualization for Interactive Data Exploration, Alan Turing Institute, London
 * February 2018: Seven Myths about Data Visualization, Controversies in the Data Society Talk Series, Edinburgh
-
+* .. 
 
 ## Scientific Workshops
 
