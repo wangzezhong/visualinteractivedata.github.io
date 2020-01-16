@@ -6,6 +6,8 @@
 ## 2020
 
 ![](figures/wang2020cheat.png)
+### Cheat Sheets for Data Visualization Techniques](pdfs/wang2020cheat.pdf)
+
 **[Cheat Sheets for Data Visualization Techniques](pdfs/wang2020cheat.pdf)**
 Zezhong Wang, Lovisa Sundin, Dave Murray-Rust, Benjamin Bach
 *ACM Conference on Human Factors in Computing Systems (CHI) (2020).*
