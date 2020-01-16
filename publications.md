@@ -5,7 +5,27 @@
 
 ## 2020
 
-![publication](figures/lekschas2020scalable.png)
+![](figures/wang2020cheat.png)
+**[Cheat Sheets for Data Visualization Techniques](pdfs/wang2020cheat.pdf)**
+Zezhong Wang, Lovisa Sundin, Dave Murray-Rust, Benjamin Bach
+*ACM Conference on Human Factors in Computing Systems (CHI) (2020).*
+
+![](figures/cordeil2020embodied.png)
+**[Embodied Axes: Tangible, Actuated Interaction for 3D Augmented Reality Data Spaces](pdfs/cordeil2020embodied.pdf)**
+Maxime Cordeil, Benjamin Bach, Andrew Cunningham, Bastian Montoya, Ross T. Smith, Bruce H. Thomas, Tim Dwyer
+*ACM Conference on Human Factors in Computing Systems (CHI) (2020).*
+
+![](figures/chen2020doughnets.png)
+**[DoughNets: Visualising Networks Using Torus Wrapping](pdfs/chen2020doughnets.pdf)**
+Kun-Ting Chen, Tim Dwyer, Kim Marriott, Benjamin Bach
+*ACM Conference on Human Factors in Computing Systems (CHI) (2020).*
+
+![](figures/chen2020augmenting.png)
+**[Augmenting Static Visualizations with PapARVis Designer](pdfs/chen2020augmenting.pdf)**
+Zhutian Chen, Wai Tong, Qianwen Wang, Benjamin Bach, Huamin Qu
+*ACM Conference on Human Factors in Computing Systems (CHI) (2020).*
+
+![](figures/lekschas2020scalable.png)
 **[Pattern-Driven Navigation in 2D Multiscale Visualizations with Scalable Insets](https://vcg.seas.harvard.edu/publications/pattern-driven-navigation-in-2d-multiscale-visualizations-with-scalable-insets)**
 Fritz Lekschas, Michael Behrisch, Benjamin Bach, Peter Kerpedjiev, Nils Gehlenborg, Hanspeter Pfister, *IEEE Transactions on Visualization and Computer Graphics (TVCG) 2020 (IEEE VIS, 2019))*  
 
