@@ -10,20 +10,6 @@
 <a href="#teaching">Teaching</a> |
 <a href="#grants">Grants</a>
 
-<!--
-[Contact](#contact) |
-[Reserach Interests](#research-interests) |
-[Short Bio](#short-bio) |
-[Publications](https://scholar.google.com/citations?hl=en&user=dXbz4FgAAAAJ) |
-[Awards](#awards) |
-[Professional Activities](#professional-activties) |
-[Reviewing](#reviewing) |
-[Invited Talks](#invited-talks) |
-[Scientific Workshops](#scientific-workshops) |
-[Teaching](#teaching) |
-[Grants](#grants) |
--->
-
 
 # Benjamin Bach
 
@@ -36,8 +22,8 @@ Benjamin is a Lecturer (Assistant Prof.) in Design Informatics and Visualization
 
 **Twitter:** [@benjbach](https://twitter.com/benjbach)
 
-## Random but Important: 
-* <i style="color:#b00;">We are searching for new [Chair in Design Informatics](https://www.ed.ac.uk/informatics/news-events/stories/2019/informatics-searching-for-new-chair-design-inf)</i>
+
+<i style="color:#b00;">We are searching for new [Chair in Design Informatics](https://www.ed.ac.uk/informatics/news-events/stories/2019/informatics-searching-for-new-chair-design-inf)!</i>
 
 ## Research Interest
 
