@@ -1,3 +1,16 @@
+<a href="#contact">Contact</a> |
+<a href="#research-interests">Reserach Interests</a> |
+<a href="#hort-bio">Short Bio</a> |
+<a href="publications.html">Publications</a> |
+<a href="#awards">Awards</a> |
+<a href="#professional-activties">Professional Activities</a> |
+<a href="#reviewing">Reviewing</a> |
+<a href="#invited-talks">Invited Talks</a> |
+<a href="#scientific-workshops">Scientific Workshops</a> |
+<a href="#teaching">Teaching</a> |
+<a href="#grants">Grants</a>
+
+<!--
 [Contact](#contact) |
 [Reserach Interests](#research-interests) |
 [Short Bio](#short-bio) |
@@ -9,6 +22,7 @@
 [Scientific Workshops](#scientific-workshops) |
 [Teaching](#teaching) |
 [Grants](#grants) |
+-->
 
 
 # Benjamin Bach
