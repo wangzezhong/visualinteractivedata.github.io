@@ -6,47 +6,45 @@
 ## 2020
 
 ![](figures/wang2020cheat.png)
-### Cheat Sheets for Data Visualization Techniques](pdfs/wang2020cheat.pdf)
-
-**[Cheat Sheets for Data Visualization Techniques](pdfs/wang2020cheat.pdf)**
+**[Cheat Sheets for Data Visualization Techniques](pdfs/wang2020cheat.pdf)**:
 Zezhong Wang, Lovisa Sundin, Dave Murray-Rust, Benjamin Bach
 *ACM Conference on Human Factors in Computing Systems (CHI) (2020).*
 
 ![](figures/cordeil2020embodied.png)
-**[Embodied Axes: Tangible, Actuated Interaction for 3D Augmented Reality Data Spaces](pdfs/cordeil2020embodied.pdf)**
+**[Embodied Axes: Tangible, Actuated Interaction for 3D Augmented Reality Data Spaces](pdfs/cordeil2020embodied.pdf)**:
 Maxime Cordeil, Benjamin Bach, Andrew Cunningham, Bastian Montoya, Ross T. Smith, Bruce H. Thomas, Tim Dwyer
 *ACM Conference on Human Factors in Computing Systems (CHI) (2020).*
 
 ![](figures/chen2020doughnets.png)
-**[DoughNets: Visualising Networks Using Torus Wrapping](pdfs/chen2020doughnets.pdf)**
+**[DoughNets: Visualising Networks Using Torus Wrapping](pdfs/chen2020doughnets.pdf)**:
 Kun-Ting Chen, Tim Dwyer, Kim Marriott, Benjamin Bach
 *ACM Conference on Human Factors in Computing Systems (CHI) (2020).*
 
 ![](figures/chen2020augmenting.png)
-**[Augmenting Static Visualizations with PapARVis Designer](pdfs/chen2020augmenting.pdf)**
+**[Augmenting Static Visualizations with PapARVis Designer](pdfs/chen2020augmenting.pdf)**:
 Zhutian Chen, Wai Tong, Qianwen Wang, Benjamin Bach, Huamin Qu
 *ACM Conference on Human Factors in Computing Systems (CHI) (2020).*
 
 ![](figures/lekschas2020scalable.png)
-**[Pattern-Driven Navigation in 2D Multiscale Visualizations with Scalable Insets](https://vcg.seas.harvard.edu/publications/pattern-driven-navigation-in-2d-multiscale-visualizations-with-scalable-insets)**
+**[Pattern-Driven Navigation in 2D Multiscale Visualizations with Scalable Insets](https://vcg.seas.harvard.edu/publications/pattern-driven-navigation-in-2d-multiscale-visualizations-with-scalable-insets)**:
 Fritz Lekschas, Michael Behrisch, Benjamin Bach, Peter Kerpedjiev, Nils Gehlenborg, Hanspeter Pfister, *IEEE Transactions on Visualization and Computer Graphics (TVCG) 2020 (IEEE VIS, 2019))*  
 
 
 ## 2019
 ![publication](figures/schoettler2019geographic.png)
-**[Geographic Network Visualization Techniques: A Work-In-Progress Taxonomy](https://www.google.com/url?q=https%3A%2F%2Fgeographic-networks.github.io%2Fabstract.pdf&sa=D&sntz=1&usg=AFQjCNE14-21ZgF1E9MSvOJI2LrMlgSNIg)**
+**[Geographic Network Visualization Techniques: A Work-In-Progress Taxonomy](https://www.google.com/url?q=https%3A%2F%2Fgeographic-networks.github.io%2Fabstract.pdf&sa=D&sntz=1&usg=AFQjCNE14-21ZgF1E9MSvOJI2LrMlgSNIg)**:
 Sarah Schöttler, Tobias Kauer, Benjamin Bach: *Poster at Graph Drawing, (2019)*
 
 [Weblink](https://geographic-networks.github.io)
 
 ![](figures/cordeil2019iatk.png)
-**[IATK: An Immersive Analytics Toolkit](https://hal-enac.archives-ouvertes.fr/hal-02288638/file/IATK_IEEE_VR.pdf)**
+**[IATK: An Immersive Analytics Toolkit](https://hal-enac.archives-ouvertes.fr/hal-02288638/file/IATK_IEEE_VR.pdf)**:
 Maxime Cordeil, Andrew Cunningham, Benjamin Bach, Christophe Hurter, Bruce H. Thomas, Kim Mariott, Tim Dwyer, IEEE VR (2019)  
 
 [Weblink](https://research.monash.edu/en/publications/iatk-an-immersive-analytics-toolkit)
 
 ![](figures/havens2019paxvis.png)
-**[PaxVis: Visualizing Peace Agreements](papers/havens2019paxvis.pdf)**
+**[PaxVis: Visualizing Peace Agreements](papers/havens2019paxvis.pdf)**:
 Lucy Havens, Mengting Bao, Larissa Pschetz, Benjamin Bach, Christine Bell. 
 *ACM Conference on Human Factors in Computing Systems (CHI) (2019).*
 
@@ -54,12 +52,12 @@ Lucy Havens, Mengting Bao, Larissa Pschetz, Benjamin Bach, Christine Bell.
 
 
 ![](figures/wang2019comparing.png)
-**[Comparing Effectiveness and Engagement of Data Comics and Infographics](https://www.researchgate.net/profile/Benjamin_Bach2/publication/331357753_Comparing_Effectiveness_and_Engagement_of_Data_Comics_and_Infographics/links/5cb859aaa6fdcc1d499cc3b1/Comparing-Effectiveness-and-Engagement-of-Data-Comics-and-Infographics.pdf)**
+**[Comparing Effectiveness and Engagement of Data Comics and Infographics](https://www.researchgate.net/profile/Benjamin_Bach2/publication/331357753_Comparing_Effectiveness_and_Engagement_of_Data_Comics_and_Infographics/links/5cb859aaa6fdcc1d499cc3b1/Comparing-Effectiveness-and-Engagement-of-Data-Comics-and-Infographics.pdf)**:
 Zezong Wang, Shunming Wang, Matteo Farinella, Dave Murray-Rust, Nathalie Henry Riche.  *ACM Conference on Human Factors in Computing Systems (CHI)  (2019).*
 
 
 ![](figures/kim2019datatoon.png)
-**[DataToon: Drawing Data Comics About DynamicNetworks with Pen + Touch Interaction](https://www.researchgate.net/profile/Benjamin_Bach2/publication/332231214_DataToon_Drawing_Data_Comics_About_Dynamic_Networks_with_Pen_Touch_Interaction/links/5ca78456299bf118c4b57dd7/DataToon-Drawing-Data-Comics-About-Dynamic-Networks-with-Pen-Touch-Interaction.pdf)**
+**[DataToon: Drawing Data Comics About DynamicNetworks with Pen + Touch Interaction](https://www.researchgate.net/profile/Benjamin_Bach2/publication/332231214_DataToon_Drawing_Data_Comics_About_Dynamic_Networks_with_Pen_Touch_Interaction/links/5ca78456299bf118c4b57dd7/DataToon-Drawing-Data-Comics-About-Dynamic-Networks-with-Pen-Touch-Interaction.pdf)**:
 Nam Wook Kim, Nathalie Henry Riche, Benjamin Bach, Guanpeng Xu, Matthew Brehmer, Ken Hinckley, Michel Pahud, Haijun Xia, Michael J. McGuffin, Hanspeter Pfister. *ACM Conference on Human Factors in Computing Systems (CHI) (2019).*
 
 ![](figures/wang2019teaching.png)
