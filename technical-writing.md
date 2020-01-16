@@ -98,3 +98,19 @@ start reading the most relevant. You don’t need to read the entire paper. Star
 * if I find a paper references in another paper, I usually add a comment what that paper said about the referenced paper (e.g. a study showing X). That, too, helps deciding later how relevant that paper is to be read.
 * You can use citation management systems such as [Zotero](https://www.zotero.org/).
 
+# Evaluation
+* high-level question
+* hypotheses and questions (H1, H2, H3, ...)
+* conditions and techniques being tested
+* Tasks for participants to do
+* study design: what is your study protocol: first, we did X, then we did Y, for X minutes, ... 
+* participants and demographics whatever is helpful for your resarch
+* Results. This is very objective analytics. Don't inculude interpretations or discussions
+* Discussion
+
+
+
+ 
+
+
+
