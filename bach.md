@@ -159,9 +159,9 @@ Benjamin Bach, Maxime Cordeil, Ulrich Engelke, Marcos Serrano, Wesley Willett
 ## Research Grants
 * 2019 Scottish Founding Council (SCF): Data Visualization Online Course for Upskilling, £80,000
 * 2019 Global Challenges Research Fund (GCRF): Peacetech Initiative: partnership for interactive mediation, £46,000
-* 2018 EPSRC Capital Grant: VisHub: A Collaborative Data Visualization Space for Interdisciplinary Research, Teaching, and Public Engagement, £200,000 over 18 months
-* 2018 Edinburgh Futures Institute Research Grant: Visualizing Inequalities £5,000 + £3,000
-* 2017 IGS (School internal) PhD scholarship funding: ~£60,000 over 3 years
+* 2018 EPSRC Capital Grant: VisHub: A Collaborative Data Visualization Space for Interdisciplinary Research, Teaching, and Public Engagement, £200,000
+* 2018 Edinburgh Futures Institute Research Grant: Visualizing Inequalities £8,000
+* 2017 IGS (School internal) PhD scholarship funding: ~£60,000
 * 2017 Principal’s Teaching Award: £15,000
 * 2014 Microsoft Research – Inria Joint Centre 18 month position
 * 2010-2014 French Government Ph.D. grant: $100.000, over 3 years
