@@ -121,18 +121,19 @@ Sicat, Ronell, Jiabao Li, JunYoung Choi, Maxime Cordeil, Won-Ki Jeong, Benjamin 
 
 (Not including conference presentations)
 
-* January 2020: [Dealing vis Data](pdfs/dealing_vis_data_keynote.pdf): Keynote to Dealing with Data conference, Edinburgh  
-* June 2019: Visualizing Peace and Conflicts, Edinburgh Futures Seminar, University of Edinburgh 
-* May 2019: Data visualization for exploration, explanation and beyond, Kings College, London.
-* December 2018: Visualizing Space-Time Cubes in AR, Shonan Seminar to Immersive Analytics, Tokio.
-* October 2018: Interactive Visualization for Dynamic, Multivariate, and Geographic Networks, Tuto@Mate (online webinar)
-* September 2018: Data Comics for Data-Driven Storytelling, University of Tilburg, Netherlands
-* September 2018: Perspectives on Data Visualization, Design Informatics Seminar Series, University of Edinburgh.
-* May 2018: Interaction Literacy for Data Visualization, Workshop on Big Data Analytics and Business Applications, AVI Conference, Casteglione della Pescaia, Italy
-* May 2018: Data Visualization for Exploration, Explanation, and Engagement, Tesco Bank, Edinburgh
-* May 2918: Drawing into the AR-Canvas: Designing Embedded Visualizations for Augmented Reliaty., OpenVis Conference, Paris
-* March 2018: Visualization for Interactive Data Exploration, Alan Turing Institute, London
-* February 2018: Seven Myths about Data Visualization, Controversies in the Data Society Talk Series, Edinburgh
+* January 2020---Keynote to Dealing with Data conference (Edinburgh): [Dealing vis Data](pdfs/dealing_vis_data_keynote.pdf)  
+* June 2019---Edinburgh Futures Seminar: Visualizing Peace and Conflicts
+* May 2019---Kings College, London: Data visualization for exploration, explanation and beyond.
+* December 2018---Shonan Seminar to Immersive Analytics (Tokio): Visualizing Space-Time Cubes in AR.
+* October 2018---Tuto@Mate (online webinar): Interactive Visualization for Dynamic, Multivariate, and Geographic Networks.
+* September 2018---University of Tilburg (Netherlands): Data Comics for Data-Driven Storytelling
+* September 2018---Design Informatics Seminar Series (University of Edinburgh): Perspectives on Data Visualization.
+* May 2018---Keynote for Workshop on Big Data Analytics and Business Applications, AVI Conference (Casteglione della Pescaia): Interaction Literacy for Data Visualization.
+* May 2018---Tesco Bank: Data Visualization for Exploration, Explanation, and Engagement
+* May 2018---OpenVis Conference (Paris): Drawing into the AR-Canvas: Designing Embedded Visualizations for Augmented Reliaty.
+* March 2018---DataTech Fest Edinburgh: [Tools for Data Visualization](https://www.youtube.com/watch?v=ofsts_nfF_0) 
+* March 2018---Alan Turing Institute: Visualization for Interactive Data Exploration
+* February 2018---Controversies in the Data Society Talk Series, (Edinburgh): Seven Myths about Data Visualization
 * ... 
 
 ## Scientific Workshops
