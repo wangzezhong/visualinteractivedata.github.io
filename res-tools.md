@@ -21,38 +21,37 @@
 * [Plotly: Interactive web-graphics with python: https://plot.ly/python
 
 ## Visualization in JavaScript
-* [Dimple: http://dimplejs.org
-* [D3: Very flexible and interactive javascript library to create highly interactive visualizations for the web https://d3js.org. Tutorial recommendations below:
-* [https://github.com/benjbach/vishub/wiki/D3-Tutorial
-* [https://www.lynda.com/D3-js-tutorials/D3-js-Essential-Training-Data-Scientists/504428-2.html
-* [Leaflet: JS library for simple map visualizations http://leafletjs.com/
-* [Vega-Lite is a high-level grammar of interactive graphics. It provides a concise JSON syntax for rapidly generating visualizations to support analysis. Vega-Lite specifications can be compiled to Vega specifications: https://vega.github.io/vega-lite
+* [Dimple](http://dimplejs.org)
+* [D3](https://d3js.org): Very flexible and interactive javascript library to create highly interactive visualizations for the web . Tutorial recommendations below:
+* https://github.com/benjbach/vishub/wiki/D3-Tutorial
+* https://www.lynda.com/D3-js-tutorials/D3-js-Essential-Training-Data-Scientists/504428-2.html
+* [Leaflet](http://leafletjs.com/): JS library for simple map visualizations
+* [Vega-Lite](https://vega.github.io/vega-lite) is a high-level grammar of interactive graphics. It provides a concise JSON syntax for rapidly generating visualizations to support analysis. Vega-Lite specifications can be compiled to Vega specifications: 
 
 ## Network Visualization
-* [The Vistorian for dynamic, multivariate and geographic networks: http://vistorian.net.
-* [Gephi: Colorful offline tool, allowing for cluster calculation.
-* [NodeXL: Commercial Excel plugin to convert excel tables into nodelink visualizations
-* [Networkcube: Open source online platform for network visualiztion, provides nodelink, matrix, map, and timeline visualization for dynamic, geographic, and multivariate networks.
-* [NetworkX (python): Python library for network analytics. No visualization
-* [KDNuggets: http://www.kdnuggets.com/2015/06/top-30-social-network-analysis-visualization-tools.html
-* [Collection of network visualization tools: https://www.quora.com/What-software-exists-for-visualizing-and-analyzing-large-networks
-* [Collection of network visualization tools: https://omictools.com/network-visualization-category
+* [The Vistorian]( http://vistorian.net.) for dynamic, multivariate and geographic networks.
+* [Gephi](gephi.org): Colorful offline tool, allowing for cluster calculation.
+* NodeXL: Commercial Excel plugin to convert excel tables into nodelink visualizations
+* NetworkX (python): Python library for network analytics. No visualization
+* [KDNuggets](http://www.kdnuggets.com/2015/06/top-30-social-network-analysis-visualization-tools.html)
 
 ## Humanity-driven tools
 Some of the tools below are still being developed further.
 
-* [Palladio: http://hdlab.stanford.edu/palladio/
-* [Voyant Tools: http://docs.voyant-tools.org/tools/
-* [MediaLab: http://tools.medialab.sciences-po.fr/
+* [Palladio](http://hdlab.stanford.edu/palladio/)
+* [Voyant Tools](http://docs.voyant-tools.org/tools/)
+* [MediaLab](http://tools.medialab.sciences-po.fr/)
 
 ## Tools for Styling and Communication
-* [Charticulator: interactive authoring tool that enables the creation of bespoke and reusable chart layouts. Charticulator is our response to most existing chart construction interfaces that require authors to choose from predefined chart layouts, thereby precluding the construction of novel charts. Charticulator can export chart designs into reusable templates that can be imported into other visualization tools.
-https://charticulator.com/index.html
-* [Data Illustrator: similar to Charticulator
-http://www.zcliu.org/di
-* [iVOLVER is a tool that allows users to create visualizations without textual programming. It is designed to enable flexible acquisition of many types of data (text, colors, shapes, quantities, dates) from multiple source types (bitmap charts, webpages, photographs, SVGs, CSV files) and, within the same canvas, supports transformation of that data through simple widgets to construct interactive animated visuals. https://ivolver.cs.st-andrews.ac.uk/#tryit
+* [Charticulator](https://charticulator.com/index.html): interactive authoring tool that enables the creation of bespoke and reusable chart layouts. Charticulator is our response to most existing chart construction interfaces that require authors to choose from predefined chart layouts, thereby precluding the construction of novel charts. Charticulator can export chart designs into reusable templates that can be imported into other visualization tools.
+* [Data Illustrator](http://www.zcliu.org/di
+): similar to Charticulator
+* [iVOLVER]( https://ivolver.cs.st-andrews.ac.uk/#tryit) is a tool that allows users to create visualizations without textual programming. It is designed to enable flexible acquisition of many types of data (text, colors, shapes, quantities, dates) from multiple source types (bitmap charts, webpages, photographs, SVGs, CSV files) and, within the same canvas, supports transformation of that data through simple widgets to construct interactive animated visuals.
 
 ## More Tool Collections
 * [Andy Kirk's collection of 300 tools](https://www.visualisingdata.com/resources)
 * [Commented collection](https://lisacharlotterost.github.io/datavistools-revisited)
 * [Collection of visualization tools](http://tools.medialab.sciences-po.fr/)
+* [Collection of network visualization tools](https://www.quora.com/What-software-exists-for-visualizing-and-analyzing-large-networks)
+* [Collection of network visualization tools](https://omictools.com/network-visualization-category)
+
