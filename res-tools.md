@@ -53,5 +53,6 @@ http://www.zcliu.org/di
 * [iVOLVER is a tool that allows users to create visualizations without textual programming. It is designed to enable flexible acquisition of many types of data (text, colors, shapes, quantities, dates) from multiple source types (bitmap charts, webpages, photographs, SVGs, CSV files) and, within the same canvas, supports transformation of that data through simple widgets to construct interactive animated visuals. https://ivolver.cs.st-andrews.ac.uk/#tryit
 
 ## More Tool Collections
-* [Commented collection: https://lisacharlotterost.github.io/datavistools-revisited
-* [Collection of visualization tools: http://tools.medialab.sciences-po.fr/
+* [Andy Kirk's collection of 300 tools](https://www.visualisingdata.com/resources)
+* [Commented collection](https://lisacharlotterost.github.io/datavistools-revisited)
+* [Collection of visualization tools](http://tools.medialab.sciences-po.fr/)
