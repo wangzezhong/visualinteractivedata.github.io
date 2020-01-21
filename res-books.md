@@ -17,3 +17,6 @@
 * [The Book of Circles: Visualizing Spheres of Knowledge](https://www.amazon.com/Book-Circles-Visualizing-Spheres-Knowledge/dp/1616895284/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=5Y80VKSK4A5T1X2YRNMH): Manuel Lima. 
 * [The Book of Trees: Visualizing Branches of Knowledge](https://www.amazon.com/Book-Trees-Visualizing-Branches-Knowledge/dp/1616892188/ref=pd_lpo_sbs_14_img_1?_encoding=UTF8&psc=1&refRID=5Y80VKSK4A5T1X2YRNMH): Manual Lima.
 
+# Blogs/Online Reads
+* [Marie Neurath](https://medium.com/nightingale/the-missing-legacy-of-marie-neurath-f9800733d1fc#c88d)
+
