@@ -4,27 +4,26 @@
 * [Google Fusion tables](https://sites.google.com/site/fusiontablestalks/stories): for very simple graphs, networks, and maps; supports some data cleaning and transformation (e.g., automatic recognition of location names and transformation into latitude and longitude).
 * [Tableau](https://www.tableau.com:): A powerful commercial tool for visualizing data; does not support network or text visualization. Free 2-week trial and free versions for students available.
 * [Raw graphs](http://rawgraphs.io): Free and online tool to import and map data to standard visualizations, but also parallel coordinates plot http://rawgraphs.io
-* [PoleStar: Simple webinterface that automatically creates visualizations based on the data input (Mainly scatterplots and distributions with various style attributes). Based on * [Vega. https://vega.github.io/polestar
-* [The Gamma: A JavaScript library that lets anyone create transparent and open data visualizations that are linked to the original data source and encourages the reader to further explore data and find interesting facts on their own. https://thegamma.net
-* [iVisDesigner (Scatterplots, Nodelink, Matrices, PCP, timelines): https://donghaoren.org/ivisdesigner/
+* [PoleStar](https://vega.github.io/polestar): Simple webinterface that automatically creates visualizations based on the data input (Mainly scatterplots and distributions with various style attributes.
+* [The Gamma](https://thegamma.net): A JavaScript library that lets anyone create transparent and open data visualizations that are linked to the original data source and encourages the reader to further explore data and find interesting facts on their own. 
+* [iVisDesigner](https://donghaoren.org/ivisdesigner/
+): Scatterplots, Nodelink, Matrices, PCP, timelines
 
 ## Visualization in R
-* [https://www.r-bloggers.com/7-visualizations-you-should-learn-in-r
-* [Ggplot2
-* [R Graph gallery: http://www.r-graph-gallery.com/
+* [R Graph gallery](http://www.r-graph-gallery.com/)
 
 ## Visualization in Python
-* [General library of python charts: https://python-graph-gallery.com
-* [Overview: https://blog.modeanalytics.com/python-data-visualization-libraries
-* [Bokeh: http://bokeh.pydata.org/en/latest
-* [Seaborn: https://seaborn.pydata.org
-* [Plotly: Interactive web-graphics with python: https://plot.ly/python
+* [General library of python charts](https://python-graph-gallery.com)
+* [Overview](https://blog.modeanalytics.com/python-data-visualization-libraries)
+* [Bokeh](http://bokeh.pydata.org/en/latest)
+* [Seaborn](https://seaborn.pydata.org)
+* [Plotly](https://plot.ly/python): Interactive web-graphics with python
 
 ## Visualization in JavaScript
 * [Dimple](http://dimplejs.org)
 * [D3](https://d3js.org): Very flexible and interactive javascript library to create highly interactive visualizations for the web . Tutorial recommendations below:
-* https://github.com/benjbach/vishub/wiki/D3-Tutorial
-* https://www.lynda.com/D3-js-tutorials/D3-js-Essential-Training-Data-Scientists/504428-2.html
+<!--* https://github.com/benjbach/vishub/wiki/D3-Tutorial
+* https://www.lynda.com/D3-js-tutorials/D3-js-Essential-Training-Data-Scientists/504428-2.html-->
 * [Leaflet](http://leafletjs.com/): JS library for simple map visualizations
 * [Vega-Lite](https://vega.github.io/vega-lite) is a high-level grammar of interactive graphics. It provides a concise JSON syntax for rapidly generating visualizations to support analysis. Vega-Lite specifications can be compiled to Vega specifications: 
 
