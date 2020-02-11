@@ -1,10 +1,10 @@
-#Senior Teaching Assistant in Data Visualisation
-#_Vacancy Reference_:     
+# Senior Teaching Assistant in Data Visualisation
+# _Vacancy Reference_:     
 
 The University of Edinburgh searches for a highly-motivated full-time senior teacher assistant in data visualization to help with the creation and delivery of a novel online learning course at the intersection of teaching and research. The position is currently running until including July 2020 but further funding until into Spring 2021 is likely. 
 The position is based at the School of Informatics. The successful candidate will have (or be near to completing) a PhD, or equivalent practical work experience in data visualization and the enthusiasm and ability to develop and deliver original cross-disciplinary research-led teaching beyond the University.
 
-All applications must contain the following supporting documents: 
+# All applications must contain the following supporting documents: 
 
 * Teaching statement
 * Full CV (resume)
@@ -12,6 +12,8 @@ All applications must contain the following supporting documents:
 * Work portfolio showing work done in visualization design.
 
 The deadline for applications is __March 6__, 2020, midnight.
+
+As this job falls within the Brexit-transition period (until December 31, 2020), __EU nationals do not require visa__. 
 
 Feedback will only be provided to interviewed candidates. 
 
