@@ -1,3 +1,5 @@
+# News
+
 * _Feb 2020:_ Position open for [University Teacher in Data Visaulization](job-datavista) (postdoc level, no PhD).
 
 * _Dec 2019:_ _Visual+Interactive Data_ contributes towards __four__ [papers](https://visualinteractivedata.github.io/publications) for [CHI 2020](https://chi2020.acm.org)! Congrats everyone!
