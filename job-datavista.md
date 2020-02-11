@@ -17,7 +17,7 @@ As this job falls within the Brexit-transition period (until December 31, 2020),
 
 Feedback will only be provided to interviewed candidates. 
 
-Informal inquiries may be addressed to [Dr. Benjamin Bach (bbach@inf.ed.ac.uk)](bbach@inf.ed.ac.uk).
+Informal inquiries may be addressed to [Dr. Benjamin Bach (bbach@inf.ed.ac.uk)](mailto:bbach@inf.ed.ac.uk).
 
 __Pay Grade: UE07 (£33,797-£40,322)__
 
