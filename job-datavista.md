@@ -1,4 +1,4 @@
-# Senior Teaching Assistant in Data Visualisation
+# University Teacher in Data Visualization 
 # _Vacancy Reference_:     
 
 The University of Edinburgh searches for a highly-motivated full-time senior teacher assistant in data visualization to help with the creation and delivery of a novel online learning course at the intersection of teaching and research. The position is currently running until including July 2020 but further funding until into Spring 2021 is likely. 
@@ -30,17 +30,17 @@ The position will contribute to teaching and executive education at the Data Sci
 The successful candidate can build on existing courses and course material in data visualization at the university as well as expertise in teaching and delivering data visualization and online courses.  The candidate is highly encouraged to join the newly formed Visual+Interactive Data Group (http://visualinteractivedata.github.io) and participate in research where appropriate. 
 
 
-
 The __School of Informatics at the University of Edinburgh__ is one of the largest in Europe, with more than 120 academic staff and a total of over 500 post-doctoral researchers, research students and support staff. Informatics at Edinburgh rated highest on Research Power in the most recent Research Excellence Framework. The School has strong links with industry, with dedicated business incubator space and well-established enterprise and business development programmes. The School of Informatics has recently established the Bayes Centre for Data Science and Artificial Intelligence, which provide a locus for fruitful multi-disciplinary work, including a range of companies collocated in it. The School holds a Silver Athena SWAN award in recognition of our commitment to advance the representation of women in science, mathematics, engineering and technology. We are also Stonewall Scotland Diversity Champions actively promoting LGBT equality.
-Data Visualization at the University of Edinburgh: The University of Edinburgh is hosting a variety of research and teaching around data visualization concentrated around the Visual+Interactive Data group (http://visualinteractivedata.github.io), which the successful candidate is welcome to join. New hirings are planned. The group has access to the latest immersive tech (VR, MR, touch screens and tables, 3D printing and cutting, fab lab etc) and is about to plan its own lab space. Visual+Interactive Data is highly engaged in co-organizing Edinburgh's monthly Data Vis meetup (over 700 members) and collaborates across Schools and outside the University involving: NHS, the Scottish Government statistics division, the City council, Visa, etc.
 
-##1. Job details
+__Data Visualization at the University of Edinburgh__: The University of Edinburgh is hosting a variety of research and teaching around data visualization concentrated around the Visual+Interactive Data group [http://visualinteractivedata.github.io](http://visualinteractivedata.github.io). The group has access to the [latest immersive tech](http://edinburghvishub.github.io) (VR, MR, touch screens and tables, 3D printing and cutting, fab lab etc) and is about to plan its own lab space. Visual+Interactive Data is highly engaged in co-organizing Edinburgh's monthly Data Vis meetup (over 700 members) and collaborates across Schools and outside the University involving: NHS, the Scottish Government statistics division, the City council, Visa, etc.
 
-Job title: University Teacher in Informatics
+## 1. Job details
 
-School/Support Department: School of Informatics
+__Job title:__ University Teacher in Informatics
 
-Line manager: Director of Teaching
+__School/Support Department:__ School of Informatics
+
+__Line manager:__ Director of Teaching
 
 
 ## 2. Job purpose
