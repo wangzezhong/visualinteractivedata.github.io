@@ -9,7 +9,17 @@
       <a href="https://scholar.google.com/citations?user=dXbz4FgAAAAJ&hl=en&oi=ao">Google Scholar</a>
     </td>
   </tr>
+
   <tr>
+    <td style="vertical-align:top;width:100px;"><img src="people/bettina.jpg"/></td>
+    <td style="vertical-align:top;">
+      <b><a href="http://data-things.com">Bettina Nissen</a></b>, Lecturer (Assistant Prof.) in Interaction Design and researcher in Design Informatics at the University of Edinburgh. With a background in product and interaction design, digital fabrication and data physicalisation, her practice-based research focuses on engaging audiences with complex technological concepts and data through tangible means and makings. Research through Design, Designing with Data, Data Engagement, Data Physicalisation, Digital Fabrication.
+      <br/>
+      <a href="https://scholar.google.com/citations?user=yv5H92AAAAAJ&hl=en&oi=ao">Google Scholar</a>
+    </td>
+  </tr>
+
+<tr>
    <td style="vertical-align:top;width:100px;"><img src="people/wang.jpg" style="width:150px;float:left;margin-left:10px"/></td>
     <td style="vertical-align:top;">
       <b>Zezhong Wang</b>, PhD student working on <i>Methods for Creating and Teaching Data Comics</i>.
