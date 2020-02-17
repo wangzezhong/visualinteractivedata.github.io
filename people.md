@@ -65,9 +65,19 @@
     </td>
   </tr>
   
+    <tr>
+   <td style="vertical-align:top;width:100px;"><img src="people/dfault.jpg" style="width:150px;float:left;margin-left:10px"/></td>
+    <td style="vertical-align:top;">
+  <a href="https://www.tzingtao.com/"><b>Jingtao Zhou</b></a>, visiting students grom Tianjin University and working on data comics creation. 
+      <br/>
+    </td>
+  </tr>
+ 
+ 
 </table>
 
 **Vebjørn Halvfjerdvik**  
+
 
 # Alumni
 
