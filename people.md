@@ -9,7 +9,6 @@
       <a href="https://scholar.google.com/citations?user=dXbz4FgAAAAJ&hl=en&oi=ao">Google Scholar</a>
     </td>
   </tr>
-
   <tr>
     <td style="vertical-align:top;width:100px;"><img src="people/bettina.jpg"/></td>
     <td style="vertical-align:top;">
@@ -27,8 +26,7 @@
       <a href="https://scholar.google.com/citations?user=tncrPCIAAAAJ&hl=en&oi=ao">Google Scholar</a>
     </td>
   </tr>
-
-<tr>
+  <tr>
     <td style="vertical-align:top;width:100px;"><img src="people/larissa.jpg"/></td>
     <td style="vertical-align:top;">
       <b><a href="http://entretags.de/">Larissa Pschetz</a></b>, interaction designer, researcher and lecturer at the University of Edinburgh. Research through design, Technology for social development, Internet of Things (IoT), Temporal design, Biodesign
@@ -36,9 +34,7 @@
       <a href="https://scholar.google.com/citations?user=tncrPCIAAAAJ&hl=en&oi=ao">Google Scholar</a>
     </td>
   </tr>
-
-
-<tr>
+  <tr>
    <td style="vertical-align:top;width:100px;"><img src="people/wang.jpg" style="width:150px;float:left;margin-left:10px"/></td>
     <td style="vertical-align:top;">
       <b>Zezhong Wang</b>, PhD student working on <i>Methods for Creating and Teaching Data Comics</i>.
@@ -48,7 +44,6 @@
       <a href="https://scholar.google.com/citations?user=EJ8drhwAAAAJ&hl=en&oi=ao">Google Scholar</a>
     </td>
   </tr>
-  
   <tr>
    <td style="vertical-align:top;width:100px;"><img src="people/kauer.jpg" style="width:150px;float:left;margin-left:10px"/></td>
     <td style="vertical-align:top;">
@@ -59,14 +54,12 @@
       <a href="https://scholar.google.com/citations?user=qDN6jW4AAAAJ&hl=en&oi=ao">Google Scholar</a>
     </td>
   </tr>
-  
   <tr>
    <td style="vertical-align:top;width:100px;"><img src="people/default.png" style="width:150px;float:left;margin-left:10px"/></td>
     <td style="vertical-align:top;">
       <b>Mashael Hamad Alkadi</b>, PhD student working on <i>Learning Analytics</i>.
     </td>
   </tr>
-
   <tr>
    <td style="vertical-align:top;width:100px;"><img src="people/harper-lee.jpg" style="width:150px;float:left;margin-left:10px"/></td>
     <td style="vertical-align:top;">
@@ -75,7 +68,6 @@
       <a href="https://scholar.google.com/citations?user=qDN6jW4AAAAJ&hl=en&oi=ao">Google Scholar</a>
     </td>
   </tr>
-  
   <tr>
    <td style="vertical-align:top;width:100px;"><img src="people/bowler.jpg" style="width:150px;float:left;margin-left:10px"/></td>
     <td style="vertical-align:top;">
@@ -83,9 +75,8 @@
       <br/>
     </td>
   </tr>
-  
     <tr>
-   <td style="vertical-align:top;width:100px;"><img src="people/dfault.png" style="width:150px;float:left;margin-left:10px"/></td>
+   <td style="vertical-align:top;width:100px;"><img src="people/default.png" style="width:150px;float:left;margin-left:10px"/></td>
     <td style="vertical-align:top;">
   <a href="https://www.tzingtao.com/"><b>Jingtao Zhou</b></a>, visiting students grom Tianjin University and working on data comics creation. 
       <br/>
