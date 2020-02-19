@@ -11,7 +11,7 @@ __All applications must contain the following supporting documents:__
 * Teaching/training portfolio to previous teaching and training experiences, explaining what your role was, what the course was, what teaching style, how many students, workshops, tutorials
 * Work portfolio showing work done in visualization design.
 
-The deadline for applications is __March 6__, 2020, midnight.
+The deadline for applications is __March 3__, 2020, midnight.
 
 As this job falls within the Brexit-transition period (until December 31, 2020), __EU nationals do not require visa__. 
 
