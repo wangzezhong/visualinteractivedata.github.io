@@ -1,8 +1,15 @@
 # University Teacher in Data Visualization 
-# _Vacancy Reference_:     
 
 The University of Edinburgh searches for a highly-motivated full-time senior teacher assistant in data visualization to help with the creation and delivery of a novel online learning course at the intersection of teaching and research. The position is currently running until including July 2020 but further funding until into Spring 2021 is likely. 
 The position is based at the School of Informatics. The successful candidate will have (or be near to completing) a PhD, or equivalent practical work experience in data visualization and the enthusiasm and ability to develop and deliver original cross-disciplinary research-led teaching beyond the University.
+
+As part of the course, the successfull candidate can be involved in __research in data visualization literacy, data literacy, and teaching visualization__ in an interdisciplinary field. This can touch on projects such as 
+* [Visualization Cheat Sheets](http://visualizationcheatsheets.github.io/) 
+* [Data Comics](http://datacomics.net)
+* Tools for data visualization 
+* Learning Analyts
+* Novel Teaching activities
+
 
 __All applications must contain the following supporting documents:__
 
