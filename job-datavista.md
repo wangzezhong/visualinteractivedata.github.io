@@ -13,6 +13,8 @@ __All applications must contain the following supporting documents:__
 
 The deadline for applications is __March 3__, 2020, midnight.
 
+Applications: [https://www.vacancies.ed.ac.uk/pls/corehrrecruit/erq_jobspec_version_4.jobspec?p_id=051476]( https://www.vacancies.ed.ac.uk/pls/corehrrecruit/erq_jobspec_version_4.jobspec?p_id=051476)
+
 As this job falls within the Brexit-transition period (until December 31, 2020), __EU nationals do not require visa__. 
 
 Feedback will only be provided to interviewed candidates. 
