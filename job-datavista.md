@@ -8,7 +8,7 @@ As part of the course, the successfull candidate can be involved in __research i
 * [Data Comics](http://datacomics.net)
 * Tools for data visualization 
 * Learning Analyts
-* Novel Teaching activities
+* Novel Teaching activities (workshops, sketching, tutorials, websites, online resources, etc.)
  
 
 ##All applications must contain the following supporting documents:##
