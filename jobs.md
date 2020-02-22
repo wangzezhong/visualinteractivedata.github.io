@@ -4,3 +4,5 @@
 * [University Teacher in Data Visualization](job-datavista) (PhD or equivalent work experience in data vis) to help with the creation and delivery of a novel online learning course at the intersection of teaching and research. 
 * Competitive [PhD scholarships](phd-edinburgh.html) are available in November-March, but external funding might be around all year. 
 * Visiting students (contact us directly)
+* [Graphic designer / Javascript developer] for creating visualization cheat sheets (http://visualinteractivedata.github.io). 
+
