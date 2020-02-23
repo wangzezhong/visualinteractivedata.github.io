@@ -22,8 +22,9 @@ Benjamin is a Lecturer (Assistant Prof.) in Design Informatics and Visualization
 
 **Twitter:** [@benjbach](https://twitter.com/benjbach)
 
-
 <i style="color:#b00;">We are searching for a new [Chair in Design Informatics](https://www.ed.ac.uk/informatics/news-events/stories/2019/informatics-searching-for-new-chair-design-inf)!</i>
+
+<i style="color:#b00;">We are searching for a [University Teacher / postdoc](job-datavista) to help with an online course in data visualization for professionals and participate in reserch on novel teaching methods and material!</i>
 
 ## Research Interest
 
