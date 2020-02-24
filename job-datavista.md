@@ -1,6 +1,6 @@
 # University Teacher in Data Visualization 
 
-The University of Edinburgh searches for a highly-motivated full-time senior teacher assistant in data visualization to help with the creation and delivery of a __novel online learning course at the intersection of teaching and research__. The position is currently running until including July 2020 but further funding until into Spring 2021 is likely. 
+The University of Edinburgh searches for a highly-motivated full-time senior teacher assistant in data visualization to help with the creation and delivery of a __novel online learning course at the intersection of teaching and research__. The position is open until including July 2020 but further funding until into Spring 2021 is likely. 
 The position is based at the __School of Informatics__. The successful candidate will have (or be near to completing) a PhD, or equivalent practical work experience in data visualization and the enthusiasm and ability to develop and deliver original cross-disciplinary research-led teaching beyond the University. __Lectures have been recorded from previous courses and we---Benjamin, Uta, and Gian Marco---will help with any advice and support possible__.
 
 As part of the course, the successfull candidate can be involved in __research in data visualization literacy, data literacy, and teaching visualization__ in an interdisciplinary field. This can touch on projects such as 
