@@ -1,4 +1,4 @@
-# Work with us
+# Work with us: Open Positions
 
 * The School of Informatics is seeking to appoint a __[Chair in Design Infomatics](https://www.vacancies.ed.ac.uk/pls/corehrrecruit/erq_jobspec_version_4.display_form)__ with a closing date of March 4, 2020.
 * __[University Teacher in Data Visualization](job-datavista.html)__ (PhD or equivalent work experience in data vis) to help with the creation and delivery of a novel online learning course at the intersection of teaching and research. 
