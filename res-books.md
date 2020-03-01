@@ -1,5 +1,5 @@
 # Text+Picture Books
-
+* [Survey on Visualization books](https://onlinelibrary.wiley.com/doi/epdf/10.1111/cgf.13595)
 * [Data-Driven Storytlling](https://www.amazon.com.au/Data-Driven-Storytelling-Christophe-Hurter/dp/1138197106/ref=asc_df_1138197106/?tag=googleshopdsk-22&linkCode=df0&hvadid=341743255404&hvpos=1o1&hvnetw=g&hvrand=13105567395513959533&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1000567&hvtargid=pla-442553695388&psc=1): Nathalie Henry Riche, Christophe Hurter, Nicholas Diakopoulos, Sheelagh Carpendale, 2018.
 * [How Charts Lie: Getting Smarter about Visual Information](https://www.amazon.com/How-Charts-Lie-Getting-Information/dp/1324001569/ref=sr_1_9?keywords=alberto+cairo&qid=1551263966&s=gateway&sr=8-9): Alberto Cairo, 2019
 * [Visual Journalism: Infographics from the World’s Best Newsrooms and Designers: Collection of infographics](http://shop.gestalten.com/visual-journalism.html)
