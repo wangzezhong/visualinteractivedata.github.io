@@ -1,5 +1,6 @@
 # People
 
+## Faculty
 <table>
   <tr>
     <td style="vertical-align:top;width:100px;"><img src="people/bach.png"/></td>
@@ -34,6 +35,11 @@
       <a href="https://scholar.google.com/citations?user=tncrPCIAAAAJ&hl=en&oi=ao">Google Scholar</a>
     </td>
   </tr>
+</table>
+
+## Research and Teaching
+
+<table>
     <tr>
     <td style="vertical-align:top;width:100px;"><img src="people/aba-sah.png"/></td>
     <td style="vertical-align:top;">
@@ -42,7 +48,12 @@
       <a href="https://scholar.google.com/citations?hl=en&user=1Sq86LcAAAAJ&view_op=list_works&sortby=pubdate#d=gs_hdr_drw">Google Scholar</a>
     </td>
    </tr>
-   <tr>
+</table>
+
+## PhD and Reserach Students
+
+<table>
+<tr>
    <td style="vertical-align:top;width:100px;"><img src="people/wang.jpg" style="width:150px;float:left;margin-left:10px"/></td>
     <td style="vertical-align:top;">
       <b>Zezhong Wang</b>, PhD student working on <i>Methods for Creating and Teaching Data Comics</i>.
@@ -86,22 +97,27 @@
     <tr>
    <td style="vertical-align:top;width:100px;"><img src="people/default.png" style="width:150px;float:left;margin-left:10px"/></td>
     <td style="vertical-align:top;">
-  <a href="https://www.tzingtao.com/"><b>Jingtao Zhou</b></a>, visiting students grom Tianjin University and working on data comics creation. 
+  <a href="https://www.tzingtao.com/"><b>Jingtao Zhou</b></a>, visiting students from Tianjin University and working on data comics creation. 
       <br/>
     </td>
   </tr>
- 
- 
+      <tr>
+   <td style="vertical-align:top;width:100px;"><img src="people/default.png" style="width:150px;float:left;margin-left:10px"/></td>
+    <td style="vertical-align:top;">
+  <a><b>Vebjørn Halvfjerdvik</b></a>, Master by Reserach Student on Natural Language Processing and Visualization. 
+      <br/>
+    </td>
+  </tr> 
 </table>
 
-**Vebjørn Halvfjerdvik**  
 
 
 # Alumni
 
 ## PhD Interns
 
-[Zhutian Chen](https://chenzhutian.org/), Honkong University (2019)
+[Renaud Blach](httpshttp://iihm.imag.fr/en/member/blanch), Visiting Resarcher, Université Grenoble Alpes (2020)
+[Zhutian Chen](https://chenzhutian.org/), PhD student intern, Honkong University (2019)
 
 ## MRes 
 Qiuyuan Ren (2018)
