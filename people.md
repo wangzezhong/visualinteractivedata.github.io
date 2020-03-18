@@ -54,7 +54,7 @@
 
 <table>
 <tr>
-   <td style="vertical-align:top;width:100px;"><img src="people/wang.jpg" style="width:150px;float:left;margin-left:10px"/></td>
+   <td style="vertical-align:top;width:100px;"><img src="people/wang.jpg"></td>
     <td style="vertical-align:top;">
       <b>Zezhong Wang</b>, PhD student working on <i>Methods for Creating and Teaching Data Comics</i>.
       <br/>
@@ -111,18 +111,20 @@
 </table>
 
 
-
 # Alumni
+
+## Visiting Researchers
+
+[Renaud Blach](httpshttp://iihm.imag.fr/en/member/blanch), Université Grenoble Alpes (2020)
 
 ## PhD Interns
 
-[Renaud Blach](httpshttp://iihm.imag.fr/en/member/blanch), Visiting Resarcher, Université Grenoble Alpes (2020)
-[Zhutian Chen](https://chenzhutian.org/), PhD student intern, Honkong University (2019)
+[Zhutian Chen](https://chenzhutian.org/)Honkong University (2019)
 
 ## MRes 
 Qiuyuan Ren (2018)
 
-## Master
+## Master Students
 Finn Ickler (MSc, 2018), 
 Xudong Jiang (MSc, 2018), 
 Ilyas Zholdasbayev (MSc, 2018), 
@@ -142,7 +144,7 @@ Hirsh Agarwal;
 Alexander Olson, 
 Veronika Dimitrova;
 
-## Interns
+## Research Interns
 Liwenhan Xie, Peking University (2019)
 Armand Pons, Université de Lyon (2019)
 Punpikorn Rannanawirojkul, University of Edinburgh (2018)
