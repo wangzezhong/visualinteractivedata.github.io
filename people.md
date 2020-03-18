@@ -102,7 +102,7 @@
     </td>
   </tr>
       <tr>
-   <td style="vertical-align:top;width:100px;"><img src="people/default.png" style="width:150px;float:left;margin-left:10px"/></td>
+   <td style="vertical-align:top;width:100px;"><img src="people/vebjorn.png" style="width:150px;float:left;margin-left:10px"/></td>
     <td style="vertical-align:top;">
   <a><b>Vebjørn Halvfjerdvik</b></a>, Master by Reserach Student on Natural Language Processing and Visualization. 
       <br/>
