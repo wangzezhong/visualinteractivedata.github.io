@@ -20,7 +20,7 @@ For application, please submit to [Benjamin Bach](bbach@ed.ac.uk):
 * A brief motivation statement (max 1 page)
 * a link to any portfolio / relevant work.
 
-Requirements:
+__Requirements:__
 * Knowledge of a broard range of data visualization techniques (parallel coordinates plots, heatmaps, adjacency matrices, choropleth maps, boxplots, ..)
 * Java script for graphics, interaction, and potentially storytelling, e.g., D3.js
 * Human centered research methods.
