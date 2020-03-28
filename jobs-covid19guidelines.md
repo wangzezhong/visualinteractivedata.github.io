@@ -24,6 +24,13 @@ And __desired skills__ in
 * search interfaces
 * natural language processing
 
+The project will involve 
+* designing an interface to allow for querying, browsing, and visualizing information in guidlines
+* conduct user reserch for task analysis and evaluation
+* collaborate with researchers in NLP and inform appropriate NLP methods, based on clinicians workflows
+* create creative ways to engagee clinicians in sharing their guidelines publicly.
+* provide support for analyzing guideline collection (similarity, document histories, etc.)
+
 Team members and contributers include: 
 * [Kenneth Baillie](https://www.ed.ac.uk/clinical-sciences/divisionpgdi/anaesthesia/team-members/researchers/dr-kenny-baillie), Clinician
 * [Beatrice Alex](https://www.ed.ac.uk/profile/dr-beatrice-alex), NLP
