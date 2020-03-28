@@ -2,7 +2,7 @@
 
 ![](figures/covid-browser.png)
 
-The [Visual+Interactive Data group](https://visualinteractivedata.github.io) at the School of [Informatics, University of Edinburgh](https://www.ed.ac.uk/informatics), is searching for an engaged and creative postdoc (or two PhD summer internships) to __help doctors sharing, browsing, and visualizing clinical guidelines about Covid-19__. Clinical guidelines are documents laying out specific diagnosis and treatment procedures and the project aims to facilicate doctors browsing and creating guidelines about Covid-19 for their hospital in an environment with quickly updating information and policies. Our effort is part of a larger UK-government funded project including partners in Natural Language Processing (NLP), the [Royal Edinburgh Infirmary](https://www.nhslothian.scot/GoingToHospital/Locations/RIE/Pages/default.aspx), and the [Roslin Institute](https://www.ed.ac.uk/roslin). 
+The [Visual+Interactive Data group](https://visualinteractivedata.github.io) at the School of [Informatics, University of Edinburgh](https://www.ed.ac.uk/informatics), is searching for an engaged and creative postdoc / PhD summer internship to __help doctors sharing, browsing, and visualizing clinical guidelines about Covid-19__. Clinical guidelines are documents laying out specific diagnosis and treatment procedures and the project aims to facilicate doctors browsing and creating guidelines about Covid-19 for their hospital in an environment with quickly updating information and policies. Our effort is part of a larger UK-government funded project including partners in Natural Language Processing (NLP), the [Royal Edinburgh Infirmary](https://www.nhslothian.scot/GoingToHospital/Locations/RIE/Pages/default.aspx), and the [Roslin Institute](https://www.ed.ac.uk/roslin). 
 
 The position (£33,797 p.a) can __start as soon as possible__ and is funded for a maximum of 5 months until September with the possiblity to request more funding.  __Part-time is possible__.
 
@@ -15,7 +15,7 @@ If you are interested, please submit an application to [Benjamin Bach](bbach@inf
 * two references
 * a brief cover letter lying out your working situation as the position comes with some flexibility.
 
-A first deadline for applications is set for __Saturday, April 4__. Do not hestitate to contact [Benjamin Bach](bbach@inf.ed.ac.uk) for any questions.
+A first deadline for applications is set for __Monday, April 6__, midnight but the position remains open until filled. Let us know if you are interested and do not hestitate to contact [Benjamin Bach](bbach@inf.ed.ac.uk) for any questions.
 
 A suitable candidate will require __technical skills__ in 
 * web development (JS, Node, Flask, web interfaces)
