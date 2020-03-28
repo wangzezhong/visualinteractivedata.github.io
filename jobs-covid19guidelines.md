@@ -1,4 +1,4 @@
-# Postdoc / Phd Internships on Covid-19 Guidelines
+# Postdoc / Phd Internships / research assistant on Covid-19 Guidelines
 
 ![](figures/covid-browser.png)
 
