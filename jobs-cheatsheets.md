@@ -1,4 +1,4 @@
-# PostDoc / PhD internship / Developer 
+# PostDoc / PhD intern / research assistant 
 
 ![](figures/cheatsheets.png)
 
