@@ -1,4 +1,4 @@
-# Javascript Developer / PhD internship / PostDoc
+# PostDoc / PhD internship / Developer 
 
 ![](figures/cheatsheets.png)
 
