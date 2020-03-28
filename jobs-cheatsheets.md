@@ -24,6 +24,7 @@ __Requirements:__
 * Knowledge of a broard range of data visualization techniques (parallel coordinates plots, heatmaps, adjacency matrices, choropleth maps, boxplots, ..)
 * Java script for graphics, interaction, and potentially storytelling, e.g., D3.js
 * Human centered research methods.
+* visualization design (and track record for postdoc)
 
 Any questions, directly to [Benjamin Bach](bbach@ed.ac.uk)
 
