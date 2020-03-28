@@ -7,8 +7,9 @@ The [Visual+Interactive Data group](https://visualinteractivedata.github.io) at 
 This project is part of a larger project that involves the design of an [online course in data visualization](https://datavis-online.github.io) for professionals in industry, public, and self-employment sector.
  
 This position is asking to: 
-* create cheat sheets for more visualizations
+* create cheat sheets for visualizations
 * create interactive web versions for people to explore and learn basic and advanced visualizations. 
+* user-centered research and evaluation
 
 Times and conditions are flexible and the position can start as soon as possible and runs until the end of July with further funding currently requested.
 
