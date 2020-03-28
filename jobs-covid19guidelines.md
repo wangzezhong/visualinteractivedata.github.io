@@ -1,5 +1,7 @@
 # Postdoc / Phd Internship on Covid-19 Guidelines
 
+![](figures/covid-browser.png)
+
 The [Visual+Interactive Data group](https://visualinteractivedata.github.io) at the School of [Informatics, University of Edinburgh](https://www.ed.ac.uk/informatics), is searching for an engaged and creative postdoc (or two PhD summer internships) to __help doctors sharing, browsing, and visualizing clinical guidelines__ about Covid-19. Clinical guidelines are documents laying out specific diagnosis and treatment procedures and the project aims to facilicate doctors browsing and creating guidelines about Covid-19 for their hospital. The project is part of a larger UK-government funded project together with partners at Natural Lanugage Processing, the [Royal Edinburgh Infirmary](https://www.nhslothian.scot/GoingToHospital/Locations/RIE/Pages/default.aspx), and the [Roslin Institute](https://www.ed.ac.uk/roslin). 
 
 The position (£33,797 p.a) can __start as soon as possible__ and is funded for a maximum of 5 months until September with the possiblity to request more funding.  __Part-time is possible__.
