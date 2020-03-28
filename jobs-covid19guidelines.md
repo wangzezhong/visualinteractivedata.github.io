@@ -1,22 +1,26 @@
 # Postdoc / Phd Internship on Covid-19 Guidelines
 
-The Visual+Interactive Data group at the School of Informatics, University of Edinburgh, is searching for an engaged and creative postdoc or (two) PhD interns to help doctors sharing, browsing, and visulizing clinical guidelines. The project is part of a larger UK-government funded project together with partners at Natural Lanugage Processing, the Royal Edinburgh Infirmary, the Roslin Institute. 
+The [Visual+Interactive Data group](https://visualinteractivedata.github.io) at the School of [Informatics, University of Edinburgh](https://www.ed.ac.uk/informatics), is searching for an engaged and creative postdoc (or two PhD summer internships) to __help doctors sharing, browsing, and visualizing clinical guidelines__ about Covid-19. Clinical guidelines are documents laying out specific diagnosis and treatment procedures and the project aims to facilicate doctors browsing and creating guidelines about Covid-19 for their hospital. The project is part of a larger UK-government funded project together with partners at Natural Lanugage Processing, the [Royal Edinburgh Infirmary](https://www.nhslothian.scot/GoingToHospital/Locations/RIE/Pages/default.aspx), and the [Roslin Institute](https://www.ed.ac.uk/roslin). 
 
-The position can start as soon as possible and is funded for a max of 5 months (both, postdoc or PhD interns) with the possiblity to request more funding.  
+The position (£33,797 p.a) can __start as soon as possible__ and is funded for a maximum of 5 months until September with the possiblity to request more funding.  __Part-time is possible__.
 
-Given the current lockdown sitation, working from home or abroad is mandatory but a UK bank account is required. 
+Given the current sitation, working from home or abroad is possible but a UK bank account is required. 
 
-If you are interested, please submit your application to [Benjamin Bach](bbach@inf.ed.ac.uk), including
-* a CV
+If you are interested, please submit an application to [Benjamin Bach](bbach@inf.ed.ac.uk), including
+* a CV (with publications)
 * a brief motivation and research statement (1 page max)
 * links to any relevant visualization work
 * two references
+* a brief cover letter lying out your working situation as the position comes with some flexibility.
 
-A suitable candidate will require skills in 
+A first deadline for applications is set for __Saturday, April 4__. Do not hestitate to contact [Benjamin Bach](bbach@inf.ed.ac.uk) for any questions.
+
+A suitable candidate will require __technical skills__ in 
 * web development (JS, Node, Flask, web interfaces)
 
-And desired skills in 
+And __desired skills__ in 
 * text visualization 
-* information visualiztion
+* information visualiztion and graphic design
 * search interfaces
 * natural language processing
+
