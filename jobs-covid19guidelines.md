@@ -40,4 +40,4 @@ Team members and contributers include:
 * [Evan Morgan](https://www.research.ed.ac.uk/portal/en/persons/evan-morgan(0d60e141-a185-4709-a2c0-b18af3a1b3e4).html), Software engineer
 * Andreas Gravis, research assistant
 * [Matteo Farinella](https://matteofarinella.com), comic artist and scientific communicator
-
+* Tobias Kauer, PhD student
