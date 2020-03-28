@@ -24,3 +24,11 @@ And __desired skills__ in
 * search interfaces
 * natural language processing
 
+Team members and contributers include: 
+* [Kenneth Baillie](https://www.ed.ac.uk/clinical-sciences/divisionpgdi/anaesthesia/team-members/researchers/dr-kenny-baillie), Clinician
+* [Beatrice Alex](https://www.ed.ac.uk/profile/dr-beatrice-alex), NLP
+* [Andy Law](https://www.ed.ac.uk/profile/andy-law), bioinformatics
+* [Evan Morgan](https://www.research.ed.ac.uk/portal/en/persons/evan-morgan(0d60e141-a185-4709-a2c0-b18af3a1b3e4).html), Software engineer
+* Andreas Gravis, research assistant
+* [Matteo Farinella](https://matteofarinella.com), comic artist and scientific communicator
+
