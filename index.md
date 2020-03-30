@@ -1,7 +1,6 @@
 __Visual<b style="color:red;">+</b>Interactive Data__ is a research group that investigates data visualizations and intreractive means to make data more immediate, tangible, and understandable across a variety of media such as paper, screen, and immersive. _Visual+Interactive Data_ is based at the [Institute for Design Informatics](https://www.designinformatics.org/) and the [School of Informatics](https://www.ed.ac.uk/informatics) at the [University of Edinburgh](https://www.ed.ac.uk). Our research includes, but is not limited to areas in 
 
-* network visualization, 
-* visualization of spatio-temporal data, 
+* network and spatio-temporal visualization, 
 * data-driven storytelling, 
 * visualization in augmented and virtual reality (Immersive Analytics), 
 * non-digital and physical visualization, and 
