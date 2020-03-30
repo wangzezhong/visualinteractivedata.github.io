@@ -22,7 +22,7 @@ For application, please submit to [Benjamin Bach](bbach@ed.ac.uk):
 * A brief motivation statement (max 1 page)
 * a link to any portfolio / relevant work.
 
-Deadline for applications is _April 15_. 
+Deadline for applications is _April 10_. 
 
 __Requirements:__
 * Knowledge of a broard range of data visualization techniques (parallel coordinates plots, heatmaps, adjacency matrices, choropleth maps, boxplots, ..)
