@@ -8,7 +8,7 @@ The position (£33,797 p.a) can __start as soon as possible__ and is funded for 
 
 Given the current sitation, working from home or abroad is possible but a UK bank account is required. 
 
-If you are interested, please submit an application to [Benjamin Bach](bbach@inf.ed.ac.uk), including
+If you are interested, please submit an application to [Benjamin Bach](mailto:bbach@inf.ed.ac.uk), including
 * a CV (with publications)
 * a brief motivation and research statement (1 page max)
 * links to any relevant visualization work
