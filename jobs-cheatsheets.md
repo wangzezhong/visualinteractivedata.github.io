@@ -17,7 +17,7 @@ Times and conditions are flexible and the position can start as soon as possible
 * This position can considered a paid PhD internship or a postdoc or a development job (_£33,797_ p.a). 
 * This person should be able to work from home but requires both, a UK bank account and the right to work in the UK.
 
-For application, please submit to [Benjamin Bach](bbach@ed.ac.uk):
+For application, please submit to [Benjamin Bach](mailto:bbach@ed.ac.uk):
 * A CV
 * A brief motivation statement (max 1 page)
 * a link to any portfolio / relevant work.
