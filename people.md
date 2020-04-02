@@ -94,6 +94,13 @@
       <br/>
     </td>
   </tr>
+  <tr>
+   <td style="vertical-align:top;width:100px;"><img src="people/lucyHavens.jpg" style="width:150px;float:left;margin-left:10px"/></td>
+    <td style="vertical-align:top;">
+  <a><b>Lucy Havens</b></a>, PhD Student on Retrieving Bias in Cultural Collections using Natural Language Processing and Visualization. 
+      <br/>
+    </td>
+  </tr> 
     <tr>
    <td style="vertical-align:top;width:100px;"><img src="people/jingtao.png" style="width:150px;float:left;margin-left:10px"/></td>
     <td style="vertical-align:top;">
@@ -101,7 +108,7 @@
       <br/>
     </td>
   </tr>
-      <tr>
+  <tr>
    <td style="vertical-align:top;width:100px;"><img src="people/vebjorn.png" style="width:150px;float:left;margin-left:10px"/></td>
     <td style="vertical-align:top;">
   <a><b>Vebjørn Halvfjerdvik</b></a>, Master by Reserach Student on Natural Language Processing and Visualization. 
