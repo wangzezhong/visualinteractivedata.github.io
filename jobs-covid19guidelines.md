@@ -15,7 +15,7 @@ If you are interested, please submit an application to [Benjamin Bach](mailto:bb
 * two references
 * a brief cover letter lying out your working situation as the position comes with some flexibility.
 
-A first deadline for applications is set for __Monday, April 6__, midnight but the position remains open until filled. Let us know if you are interested and do not hestitate to contact [Benjamin Bach](bbach@inf.ed.ac.uk) for any questions.
+A first deadline for applications is set for __Monday, April 10__, midnight but the position remains open until filled. Let us know if you are interested and do not hestitate to contact [Benjamin Bach](bbach@inf.ed.ac.uk) for any questions.
 
 A suitable candidate will require __technical skills__ in 
 * web development (JS, Node, Flask, web interfaces)
