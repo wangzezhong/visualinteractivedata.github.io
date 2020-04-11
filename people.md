@@ -132,22 +132,23 @@
 Qiuyuan Ren (2018)
 
 ## Master Students
-Sarah Schoettler (MSc, 2019)
-Xinyu Du (MSc, 2019)
-Junxian Meng (2019)
-Qinru Zhu (MSc 2019)
-Yixin Liu (MA, 2019)
-Finn Ickler (MSc, 2018), 
-Xudong Jiang (MSc, 2018), 
-Ilyas Zholdasbayev (MSc, 2018), 
-Yiwei Sun (MSc, 2018), 
-Yan Wu (MSc, 2018),
-Iqbal Rosiadi (MSc, 2018), 
-Edson Alcala (MSc, 2017), 
-Parul Sharma (MSc , 2017), 
-Ruobing Hao (MA, 2017), 
-Xian Tang (MSc, 2017), 
-Zezhong Wang (MSc, 2017).
+__2019:__ Sarah Schoettler (MSc),
+Xinyu Du (MSc),
+Junxian Meng (MSc),
+Qinru Zhu (MSc),
+Yixin Liu (MA),
+__2018:__ Finn Ickler (MSc), 
+Xudong Jiang (MSc), 
+Ilyas Zholdasbayev (MSc), 
+Yiwei Sun (MSc), 
+Yan Wu (MSc),
+Iqbal Rosiadi (MSc),
+__2017:__
+Edson Alcala (MSc), 
+Parul Sharma (MSc), 
+Ruobing Hao (MA), 
+Xian Tang (MSc), 
+Zezhong Wang (MSc).
 
 ## BHons
 James O’Donell, 
