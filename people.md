@@ -132,6 +132,11 @@
 Qiuyuan Ren (2018)
 
 ## Master Students
+Sarah Schoettler (MSc, 2019)
+Xinyu Du (MSc, 2019)
+Junxian Meng (2019)
+Qinru Zhu (MSc 2019)
+Yixin Liu (MA, 2019)
 Finn Ickler (MSc, 2018), 
 Xudong Jiang (MSc, 2018), 
 Ilyas Zholdasbayev (MSc, 2018), 
