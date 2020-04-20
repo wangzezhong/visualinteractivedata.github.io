@@ -25,6 +25,7 @@ The [Edinburgh VisHub](http://edinburghvishub.github.io/) is an university-wide 
 ![](figures/schoettler2019geographic.png)
 **[Survey on Geographical Networks](http://geographic-networks.github.io/)**
 
+**[Data Visualization Online Course for Professional Upskilling](https://datavis-online.github.io/)**.
 
 ## Joining Us
 
