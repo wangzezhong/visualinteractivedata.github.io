@@ -12,19 +12,20 @@ Visual<b style="color:red;">+</b>Interactive Data is heavily involved in co-orga
 
 **[Online Course Data Visualization for Professionals](https://datavis-online.github.io)**
 
+![](figures/cheatsheets.png)
+**[Data Visualization Cheat Sheets](https://sites.google.com/view/datavisualizationcheatsheet)** are aimed at supporting learning and teaching of data visualization techinques and investigate ways to better teach data visualization in general.
+
 ![](figures/datacomics.png)
 **[Data Comics](Datacomics.net)** combine visual language and narrative patterns from traditional comics to tell expressive stories with data and visaulization. We explore this exciting medium and develop workshops and guiding material. 
 
 ![](figures/immersiveanalytics.png)
-The [Edinburgh VisHub](http://edinburghvishub.github.io/) is an university-wide lab for data visualization equipment to foster research, collaboration, learning, and outreach. **[DXR](https://sites.google.com/view/dxr-vis)** and **[IATK](https://github.com/MaximeCordeil/IATK)** are two toolkits for creating immersive data visualizations in augmented and virtual reality. Check how to participate in our [upcoming workshop at CHI 2020](http://immersiveanalytics.io). 
+The **[Edinburgh VisHub](http://edinburghvishub.github.io)** is an university-wide lab for data visualization equipment to foster research, collaboration, learning, and outreach. **[DXR](https://sites.google.com/view/dxr-vis)** and **[IATK](https://github.com/MaximeCordeil/IATK)** are two toolkits for creating immersive data visualizations in augmented and virtual reality. Check how to participate in our [upcoming workshop at CHI 2020](http://immersiveanalytics.io). 
 
 ![](figures/vistorian.png)
 **[The Vistorian](Vistorian.net)** is an Interactive Visualizations for Dynamic and Multivariate Networks. Free, online, and open source. More information on the Vistorian-blog. 
 
 ![](figures/schoettler2019geographic.png)
 **[Survey on Geographical Networks](http://geographic-networks.github.io/)**
-
-**[Data Visualization Online Course for Professional Upskilling](https://datavis-online.github.io/)**.
 
 ## Joining Us
 
