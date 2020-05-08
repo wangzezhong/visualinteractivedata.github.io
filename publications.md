@@ -5,6 +5,11 @@
 
 ## 2020
 
+![](figures/Vogogias2020visual.png)
+**[Visual Encodings for Networks with Multiple Edge Types](papers/Vogogias2020visual.pdf)**:
+Athanasios Vogogias, Daniel Archambault, Benjamin Bach, Jessie Kennedy
+*International Confernce on Advances Interfaces (AVI) (2020).*
+
 ![](figures/wang2020cheat.png)
 **[Cheat Sheets for Data Visualization Techniques](papers/wang2020cheat.pdf)**:
 Zezhong Wang, Lovisa Sundin, Dave Murray-Rust, Benjamin Bach
