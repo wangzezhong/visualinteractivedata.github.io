@@ -10,8 +10,7 @@ Visual<b style="color:red;">+</b>Interactive Data is heavily involved in co-orga
 
 ## Selected Projects ([more](publications.html))
 
-![](figures/cheatsheets.png)
-**[Data Visualization Cheat Sheets](https://sites.google.com/view/datavisualizationcheatsheet)** are aimed at supporting learning and teaching of data visualization techinques and investigate ways to better teach data visualization in general.
+**[Online Course Data Visualization for Professionals](https://datavis-online.github.io)**
 
 ![](figures/datacomics.png)
 **[Data Comics](Datacomics.net)** combine visual language and narrative patterns from traditional comics to tell expressive stories with data and visaulization. We explore this exciting medium and develop workshops and guiding material. 
