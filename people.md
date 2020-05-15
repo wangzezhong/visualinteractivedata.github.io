@@ -48,6 +48,15 @@
       <a href="https://scholar.google.com/citations?hl=en&user=1Sq86LcAAAAJ&view_op=list_works&sortby=pubdate#d=gs_hdr_drw">Google Scholar</a>
     </td>
    </tr>
+  
+  <tr>
+    <td style="vertical-align:top;width:100px;"><img src="people/james-scottbrown.png"/></td>
+    <td style="vertical-align:top;">
+      <b><a href="http://jamesscottbrown.com/"> James Scott-Brown</a></b>, Post-doctoral researcher on visual browing interfaces for document collections. 
+      <br/>
+      <a href="https://scholar.google.com/citations?hl=en&user=1Sq86LcAAAAJ&view_op=list_works&sortby=pubdate#d=gs_hdr_drw">Google Scholar</a>
+    </td>
+   </tr>
 </table>
 
 ## PhD and Reserach Students
