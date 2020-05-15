@@ -58,6 +58,14 @@
       <a href="https://scholar.google.com/citations?hl=en&user=1Sq86LcAAAAJ&view_op=list_works&sortby=pubdate#d=gs_hdr_drw">Google Scholar</a>
     </td>
    </tr>
+   
+   <tr>
+    <td style="vertical-align:top;width:100px;"><img src="people/james-scottbrown.png"/></td>
+    <td style="vertical-align:top;">
+      <b><a href="https://ahc.leeds.ac.uk/media/pgr/1617/arran-l-ridley">Arran Ridley</a></b>, Research Assistant on visualization tools and measuring engagement. 
+      <a href="https://scholar.google.com/citations?user=2CciQUsAAAAJ&hl=en&oi=ao">Google Scholar</a>
+    </td>
+   </tr>
 </table>
 
 ## PhD and Reserach Students
