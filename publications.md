@@ -5,6 +5,11 @@
 
 ## 2020
 
+![](figures/Xie2020measureflow.png)
+**[Interactive Time-Series of Measures for Exploring Dynamic Networks](papers/Xie2020measureflow.pdf)**:
+Liwenhan Xie, James O'Donnel, Benjamin Bach, Jean-Daniel Fekete
+*International Confernce on Advances Interfaces (AVI) (2020).*
+
 ![](figures/Vogogias2020visual.png)
 **[Visual Encodings for Networks with Multiple Edge Types](papers/Vogogias2020visual.pdf)**:
 Athanasios Vogogias, Daniel Archambault, Benjamin Bach, Jessie Kennedy
