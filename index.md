@@ -11,15 +11,15 @@ Visual<b style="color:red;">+</b>Interactive Data is heavily involved in co-orga
 ## Selected Projects ([more](publications.html))
 
 
-### [Online Course Data Visualization for Professionals](https://datavis-online.github.io)
+### Online Course Data Visualization for Professionals
 ![](figures/datavis-course.png)
 Running from June 15 to July 17. [https://datavis-online.github.io](https://datavis-online.github.io/)
 
-### [Data Visualization Cheat Sheets](http://visualizationcheatsheets.github.io/)
+### Data Visualization Cheat Sheets
 ![](figures/cheatsheets.png)
 Data Visualization Cheat Sheets are aimed at supporting learning and teaching of data visualization techinques and investigate ways to better teach data visualization in general. [http://visualizationcheatsheets.github.io](http://visualizationcheatsheets.github.io)
 
-### [Data Comics](Datacomics.net)
+### Data Comics
 ![](figures/datacomics.png)
 Data Comicscombine visual language and narrative patterns from traditional comics to tell expressive stories with data and visaulization. We explore this exciting medium and develop workshops and guiding material. [http://datacomics.net](datacomics.net)  
 
@@ -31,6 +31,6 @@ The **[Edinburgh VisHub](http://edinburghvishub.github.io)** is an university-wi
 ![](figures/vistorian.png)
 The Vistorian is an Interactive Visualizations for Dynamic and Multivariate Networks. Free, online, and open source. More information on the Vistorian-blog. [http://vistorian.net](vistorian.net)
 
-### Survey on Geographical Networks(http://geographic-networks.github.io)
+### Survey on Geographical Networks
 ![](figures/schoettler2019geographic.png)
 [http://geographic-networks.github.io](http://geographic-networks.github.io)
