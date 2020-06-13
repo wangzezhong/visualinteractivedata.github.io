@@ -12,7 +12,8 @@ Visual<b style="color:red;">+</b>Interactive Data is heavily involved in co-orga
 
 
 ### [Online Course Data Visualization for Professionals](https://datavis-online.github.io)
-
+![](figures/datavis-course.png)
+Running from June 15 to July 17. [https://datavis-online.github.io](https://datavis-online.github.io/)
 
 ### [Data Visualization Cheat Sheets](http://visualizationcheatsheets.github.io/)
 ![](figures/cheatsheets.png)
