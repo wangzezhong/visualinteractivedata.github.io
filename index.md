@@ -10,26 +10,26 @@ Visual<b style="color:red;">+</b>Interactive Data is heavily involved in co-orga
 
 ## Selected Projects ([more](publications.html))
 
-**[Online Course Data Visualization for Professionals](https://datavis-online.github.io)**
 
+### [Online Course Data Visualization for Professionals](https://datavis-online.github.io)
+
+
+### [Data Visualization Cheat Sheets](http://visualizationcheatsheets.github.io/)
 ![](figures/cheatsheets.png)
-**[Data Visualization Cheat Sheets](https://sites.google.com/view/datavisualizationcheatsheet)** are aimed at supporting learning and teaching of data visualization techinques and investigate ways to better teach data visualization in general.
+Data Visualization Cheat Sheets are aimed at supporting learning and teaching of data visualization techinques and investigate ways to better teach data visualization in general. [http://visualizationcheatsheets.github.io](http://visualizationcheatsheets.github.io)
 
+### [Data Comics](Datacomics.net)
 ![](figures/datacomics.png)
-**[Data Comics](Datacomics.net)** combine visual language and narrative patterns from traditional comics to tell expressive stories with data and visaulization. We explore this exciting medium and develop workshops and guiding material. 
+Data Comicscombine visual language and narrative patterns from traditional comics to tell expressive stories with data and visaulization. We explore this exciting medium and develop workshops and guiding material. [http://datacomics.net](datacomics.net)  
 
+### Immersive Anlytics
 ![](figures/immersiveanalytics.png)
 The **[Edinburgh VisHub](http://edinburghvishub.github.io)** is an university-wide lab for data visualization equipment to foster research, collaboration, learning, and outreach. **[DXR](https://sites.google.com/view/dxr-vis)** and **[IATK](https://github.com/MaximeCordeil/IATK)** are two toolkits for creating immersive data visualizations in augmented and virtual reality. Check how to participate in our [upcoming workshop at CHI 2020](http://immersiveanalytics.io). 
 
+### The Vistorian: Network Visualization
 ![](figures/vistorian.png)
-**[The Vistorian](Vistorian.net)** is an Interactive Visualizations for Dynamic and Multivariate Networks. Free, online, and open source. More information on the Vistorian-blog. 
+The Vistorian is an Interactive Visualizations for Dynamic and Multivariate Networks. Free, online, and open source. More information on the Vistorian-blog. [http://vistorian.net](vistorian.net)
 
+### Survey on Geographical Networks(http://geographic-networks.github.io)
 ![](figures/schoettler2019geographic.png)
-**[Survey on Geographical Networks](http://geographic-networks.github.io/)**
-
-## Joining Us
-
-* **PhD:** Please [contact us](mailto:bbach@ed.ac.uk) directly. (Competitive) [Funding](phd-edinburgh.html) might be is available.
-* **MSc dissertation:** [Check how to plan your project](project-planning.html) and [contact us](mailto:bbach@ed.ac.uk). Ideally, we combine your DI project and MSc to work on the same topic.
-* **Research internships** are possible all year around. The University asks for a fee for more than 12. Funding might be available for selected projects.
-
+[http://geographic-networks.github.io](http://geographic-networks.github.io)
