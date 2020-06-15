@@ -8,8 +8,15 @@ __Visual<b style="color:red;">+</b>Interactive Data__ group is researching inter
 
 Visual<b style="color:red;">+</b>Interactive Data is heavily involved in co-organizing [Edinburgh's Data Vis Meetup](https://www.meetup.com/meetup-group-vBHbCmgh). [Get in touch with us](mailto:bbach@ed.ac.uk) if you want to become involved.
 
-# Selected Projects ([more](publications.html))
+# Latest 
+* *June 2020:* [Online data visualization course for professionals](https://datavis-online.github.io) starts on June 15.</p>
+* *June 2020:* Two [papers](publications.html) accepted at [AVI 2020](https://sites.google.com/unisa.it/avi2020/home)!</p>
+* *June 2020:* Devanjan Bhattacharya joins as a post-doc, working on map applications for peace analysis.
+* *May 2020:* James Scott-Brown (postdoc) and Arran Ridley (research assistant) join the team!
 
+[More news...](news.html)
+
+# Selected Projects ([more](publications.html))
 
 ### Online Course Data Visualization for Professionals
 ![](figures/datavis-course.png)
