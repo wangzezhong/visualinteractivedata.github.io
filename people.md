@@ -125,13 +125,6 @@
       <br/>
     </td>
   </tr> 
-    <tr>
-   <td style="vertical-align:top;width:100px;"><img src="people/jingtao.png" style="width:150px;float:left;margin-left:10px"/></td>
-    <td style="vertical-align:top;">
-  <a href="https://www.tzingtao.com/"><b>Jingtao Zhou</b></a>, visiting students from Tianjin University and working on data comics creation. 
-      <br/>
-    </td>
-  </tr>
   <tr>
    <td style="vertical-align:top;width:100px;"><img src="people/vebjorn.png" style="width:150px;float:left;margin-left:10px"/></td>
     <td style="vertical-align:top;">
@@ -149,8 +142,10 @@
 [Renaud Blach](httpshttp://iihm.imag.fr/en/member/blanch), Université Grenoble Alpes (2020)
 
 ## PhD Interns
-
 [Zhutian Chen](https://chenzhutian.org/)Honkong University (2019)
+
+## Other interns
+[Jingtao Zhou](http://www.tzingtao.com)
 
 ## MRes 
 Qiuyuan Ren (2018)
