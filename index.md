@@ -8,7 +8,7 @@ __Visual<b style="color:red;">+</b>Interactive Data__ group is researching inter
 
 Visual<b style="color:red;">+</b>Interactive Data is heavily involved in co-organizing [Edinburgh's Data Vis Meetup](https://www.meetup.com/meetup-group-vBHbCmgh). [Get in touch with us](mailto:bbach@ed.ac.uk) if you want to become involved.
 
-## Selected Projects ([more](publications.html))
+# Selected Projects ([more](publications.html))
 
 
 ### Online Course Data Visualization for Professionals
