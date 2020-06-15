@@ -64,6 +64,14 @@
       <b><a href="https://ahc.leeds.ac.uk/media/pgr/1617/arran-l-ridley">Arran Ridley</a></b>, Research Assistant on visualization tools and measuring engagement. 
     </td>
    </tr>
+   
+   <tr>
+    <td style="vertical-align:top;width:100px;"><img src="people/devanjan.png"/></td>
+    <td style="vertical-align:top;">
+      <b><a href="https://sites.google.com/site/bhattacharyadevanjan/home">Devanjan Bhattacharya</a></b> is working with the PSRP and PeaceTech in School of Law, focussing on collaborative map visualisations for participation and mediation in peace processes, along with the School of Informatics and the School of Design. 
+    </td>
+   </tr>
+  
 </table>
 
 ## PhD and Reserach Students
