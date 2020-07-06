@@ -32,12 +32,12 @@ Join us at [https://eu.bbcollab.com/guest/d6f968c9fe8e4a1382b2d4fc456a813d](http
 
 **Web**: [https://warwick.ac.uk/fac/cross_fac/cim/people/cagatay-turkay](https://warwick.ac.uk/fac/cross_fac/cim/people/cagatay-turkay)
 
-## Title: Visualizing Text
+## Visualizing Text
 **Christopher Collins, Ontario Tech Institute, OT**
 
 <img src="http://vialab.science.uoit.ca/wp-content/uploads/2016/11/Untitled.png" width="150" style="float:right; margin-left:30px;">
 
-**Thu, July 9th, time tdb***
+**Thu, July 9th, 5:30pm***
 
 **Abstract:** 
 
@@ -47,8 +47,11 @@ I received my PhD in Computer Science from the University of Toronto in 2010. I 
 
 **Web**: [http://vialab.science.uoit.ca/portfolio/christopher-m-collins](http://vialab.science.uoit.ca/portfolio/christopher-m-collins) 
 
+## Visualization in Virtual Reality
 
-## Laura Smith, Slanted Theory
+**Laura Smith, Slanted Theory**
+**Wed, July 15, 2020, time tdb**
+
 <!--
 **Title:** 
 **Abstract:** 
