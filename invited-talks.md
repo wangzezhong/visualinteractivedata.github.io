@@ -6,7 +6,7 @@ Join us at [https://eu.bbcollab.com/guest/d6f968c9fe8e4a1382b2d4fc456a813d](http
 
 ## Facilitating Well-Informed Data Science through Interactive Visual Analysis
 
-**Cagatay Turkay, University of York, UK** 
+**Cagatay Turkay, University of Warwick, UK** 
 
 <img src="https://warwick.ac.uk/fac/cross_fac/cim/people/cagatay-turkay/cagatay.jpg" width="150" style="float:right; margin-left:30px;">
 
