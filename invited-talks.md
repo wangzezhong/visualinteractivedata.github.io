@@ -2,20 +2,7 @@
 
 Join us at [https://eu.bbcollab.com/guest/d6f968c9fe8e4a1382b2d4fc456a813d](https://eu.bbcollab.com/guest/d6f968c9fe8e4a1382b2d4fc456a813d) (no installation required).
 
-## Interactive Tools for Visualizing Data: Perspectives from Research + Practice
-
-<img src="https://research.tableau.com/sites/default/files/matt-square.jpg" width="150" style="float:right; margin-left:30px;">
-
-**Matthew Brehmer, Tableau Research, Seattle, WA**
-
-**Thu, July, 2nd**
-
-**Abstract:** This presentation will provide an overview of interactive visualization tools. The overview will consider tools used in practice, recent prototype tools from the visualization research community, and promising directions for future visualization tools based on current research trends. The presentation will also feature three lessons pertaining to multi-tool workflows, distinguishing chart-pickers from bespoke visualization specification tools, and the distinction between visualization authoring and visualization design.
-
-**Bio:** I am a research scientist with Tableau Research in Seattle, where I focus on information visualization. Specifically, I am interested in expressive visualization design for communication and presentation, visualization design for devices large and small, and the visualization of time-oriented data, including quantities, event sequences, and dynamic networks.
-
-**Web**: [https://mattbrehmer.ca](https://mattbrehmer.ca)
-
+# Upcoming 
 
 ## Facilitating Well-Informed Data Science through Interactive Visual Analysis
 
@@ -78,4 +65,21 @@ I received my PhD in Computer Science from the University of Toronto in 2010. I 
 **Tue, July 298, 2020. time tbd**
 
 [http://research.jagoda.ca](http://research.jagoda.ca/)
+
+# Past Talks
+
+## Interactive Tools for Visualizing Data: Perspectives from Research + Practice
+
+<img src="https://research.tableau.com/sites/default/files/matt-square.jpg" width="150" style="float:right; margin-left:30px;">
+
+**Matthew Brehmer, Tableau Research, Seattle, WA**
+
+**Thu, July, 2nd**
+
+**Abstract:** This presentation will provide an overview of interactive visualization tools. The overview will consider tools used in practice, recent prototype tools from the visualization research community, and promising directions for future visualization tools based on current research trends. The presentation will also feature three lessons pertaining to multi-tool workflows, distinguishing chart-pickers from bespoke visualization specification tools, and the distinction between visualization authoring and visualization design.
+
+**Bio:** I am a research scientist with Tableau Research in Seattle, where I focus on information visualization. Specifically, I am interested in expressive visualization design for communication and presentation, visualization design for devices large and small, and the visualization of time-oriented data, including quantities, event sequences, and dynamic networks.
+
+**Web**: [https://mattbrehmer.ca](https://mattbrehmer.ca)
+
 
