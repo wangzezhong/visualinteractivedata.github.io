@@ -4,21 +4,6 @@ Join us at [https://eu.bbcollab.com/guest/d6f968c9fe8e4a1382b2d4fc456a813d](http
 
 # Upcoming 
 
-## Facilitating Well-Informed Data Science through Interactive Visual Analysis
-
-**Cagatay Turkay, University of Warwick, UK** 
-
-<img src="https://warwick.ac.uk/fac/cross_fac/cim/people/cagatay-turkay/cagatay.jpg" width="150" style="float:right; margin-left:30px;">
-
-**Tue, July 7th, 3:30pm**
-
-**Abstract:** In this talk, I will talk about how interactive visualisations that are coupled tightly with algorithms offer effective methods in conducting data science in rigorous and critical ways. Such methods not only enhance the insights drawn but also support better informed decisions made based on the outcomes. We will discuss how visualisation can facilitate such practices and will look at examples of research on how data can be transformed and visualised creatively in multiple perspectives, on how comparisons can be made within different models, parameters, and within local and global solutions, and on how interaction is an enabler for such processes.
-
-**Bio:** Cagatay Turkay is an Associate Professor at the Centre for Interdisciplinary Methodologies at the University of Warwick, UK. His research investigates the interactions between data, algorithms
- and people, and explores the role of interactive visualisation and other interaction mediums such as natural language at this intersection. He designs techniques and algorithms that are sensitive to their users in various decision-making scenarios involving primarily high-dimensional and spatio-temporal phenomena, and develops methods to study how people work interactively with data and computed artefacts.
-
-**Web**: [https://warwick.ac.uk/fac/cross_fac/cim/people/cagatay-turkay](https://warwick.ac.uk/fac/cross_fac/cim/people/cagatay-turkay)
-
 ## Finding What to Read: Visual Text Analytics Tools and Techniques to Guide Investigation
 **Christopher Collins, Ontario Tech Institute, OT**
 
@@ -65,6 +50,22 @@ Join us at [https://eu.bbcollab.com/guest/d6f968c9fe8e4a1382b2d4fc456a813d](http
 [http://research.jagoda.ca](http://research.jagoda.ca/)
 
 # Past Talks
+
+## Facilitating Well-Informed Data Science through Interactive Visual Analysis
+
+**Cagatay Turkay, University of Warwick, UK** 
+
+<img src="https://warwick.ac.uk/fac/cross_fac/cim/people/cagatay-turkay/cagatay.jpg" width="150" style="float:right; margin-left:30px;">
+
+**Tue, July 7th, 3:30pm**
+
+**Abstract:** In this talk, I will talk about how interactive visualisations that are coupled tightly with algorithms offer effective methods in conducting data science in rigorous and critical ways. Such methods not only enhance the insights drawn but also support better informed decisions made based on the outcomes. We will discuss how visualisation can facilitate such practices and will look at examples of research on how data can be transformed and visualised creatively in multiple perspectives, on how comparisons can be made within different models, parameters, and within local and global solutions, and on how interaction is an enabler for such processes.
+
+**Bio:** Cagatay Turkay is an Associate Professor at the Centre for Interdisciplinary Methodologies at the University of Warwick, UK. His research investigates the interactions between data, algorithms
+ and people, and explores the role of interactive visualisation and other interaction mediums such as natural language at this intersection. He designs techniques and algorithms that are sensitive to their users in various decision-making scenarios involving primarily high-dimensional and spatio-temporal phenomena, and develops methods to study how people work interactively with data and computed artefacts.
+
+**Web**: [https://warwick.ac.uk/fac/cross_fac/cim/people/cagatay-turkay](https://warwick.ac.uk/fac/cross_fac/cim/people/cagatay-turkay)
+
 
 ## Interactive Tools for Visualizing Data: Perspectives from Research + Practice
 
