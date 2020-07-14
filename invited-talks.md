@@ -15,10 +15,6 @@ Join us at [https://eu.bbcollab.com/guest/d6f968c9fe8e4a1382b2d4fc456a813d](http
 
 **Bio:** Laura Smith is CEO and head of interactive visualisations at Slanted Theory, an innovative data visualisation and analytics company that utilises A.I. along with Virtual, Augmented and Mixed reality to disrupt the way data is analysed, making it easier to discover hidden insights. Laura has had a strong interest in art and design from a young age and started her career around computers by mixing digital and fine art. Later working around computer science and complex research data, Laura fused the two paths to cofound Slanted Theory. She now specialises in creating engaging interactive experiences in virtual and augmented reality to enable non-specialists to explore multidimensional data like never before, to support faster decision making through her ALAIRA platform.
 
-**Web:** https://www.slantedtheory.com
-
-Web: https://www.slantedtheory.com
-
 **Web**: [http://slantedtheory.com](http://slantedtheory.com)
 
 ## The impact of technology on infographics & data visualizations in news(-papers)
