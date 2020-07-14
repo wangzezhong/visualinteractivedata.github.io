@@ -18,7 +18,7 @@ Join us at [https://eu.bbcollab.com/guest/d6f968c9fe8e4a1382b2d4fc456a813d](http
 **Web**: [http://slantedtheory.com](http://slantedtheory.com)
 
 ## The impact of technology on infographics & data visualizations in news(-papers)
-**Isabel Meirelles, Ontario Center for Arts and Design**
+**Isabel Meirelles, Ontario College of Art and Design University**
 
 **Wed, July 22, 2020. 6pm**
 
