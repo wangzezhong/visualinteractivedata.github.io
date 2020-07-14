@@ -6,6 +6,7 @@ Join us at [https://eu.bbcollab.com/guest/d6f968c9fe8e4a1382b2d4fc456a813d](http
 
 ## Future Data Visualisation Concepts
 **Laura Smith, Slanted Theory**
+
 **Wed, July 15, 2020, time 11am**
 
 <img src="https://datavis-online.github.io/images/laura-smith.png" width="150" style="float:right; margin-left:30px;">
