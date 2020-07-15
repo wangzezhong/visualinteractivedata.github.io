@@ -110,6 +110,7 @@ Benjamin Bach, Maxime Cordeil, Ulrich Engelke, Marcos Serrano, Wesley Willett
 * **The Human Factor**
 
 ## Research Grants
+* 2020 MRC (Co-I): COVID-19: ISARIC Coronavirus Clinical Characterisation Consortium (ISARIC-4C) Workpackage £60,000
 * 2019 Scottish Founding Council (SCF): Data Visualization Online Course for Upskilling, £80,000
 * 2019 Global Challenges Research Fund (GCRF): Peacetech Initiative: partnership for interactive mediation, £46,000
 * 2018 EPSRC Capital Grant: VisHub: A Collaborative Data Visualization Space for Interdisciplinary Research, Teaching, and Public Engagement, £200,000
