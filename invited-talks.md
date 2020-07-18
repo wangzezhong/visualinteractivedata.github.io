@@ -4,18 +4,6 @@ Join us at [https://eu.bbcollab.com/guest/d6f968c9fe8e4a1382b2d4fc456a813d](http
 
 # Upcoming 
 
-## Future Data Visualisation Concepts
-**Laura Smith, Slanted Theory**
-
-**Wed, July 15, 2020, time 11am**
-
-<img src="https://datavis-online.github.io/images/laura-smith.png" width="150" style="float:right; margin-left:30px;">
-
-**Abstract:** The world of data is an ever growing entity. Companies are collecting vast amounts of it, on customers, machines, processes, location. Predictions put us in the realms of generating 163 zettabytes by 2025. We have some way to go, yet we are all already struggling to make sense of the data we collect. Data exploration and communicating this complex data is a challenge. Teams are under pressure as the data grows to find insight and communicate it to those that don’t have data science backgrounds. This usually means lots of dashboard graphs and reports. But it there a better way?
-
-**Bio:** Laura Smith is CEO and head of interactive visualisations at Slanted Theory, an innovative data visualisation and analytics company that utilises A.I. along with Virtual, Augmented and Mixed reality to disrupt the way data is analysed, making it easier to discover hidden insights. Laura has had a strong interest in art and design from a young age and started her career around computers by mixing digital and fine art. Later working around computer science and complex research data, Laura fused the two paths to cofound Slanted Theory. She now specialises in creating engaging interactive experiences in virtual and augmented reality to enable non-specialists to explore multidimensional data like never before, to support faster decision making through her ALAIRA platform.
-
-**Web**: [http://slantedtheory.com](http://slantedtheory.com)
 
 ## The impact of technology on infographics & data visualizations in news(-papers)
 **Isabel Meirelles, Ontario College of Art and Design University**
@@ -33,21 +21,36 @@ Join us at [https://eu.bbcollab.com/guest/d6f968c9fe8e4a1382b2d4fc456a813d](http
 [http://isabelmeirelles.com](http://isabelmeirelles.com/)
 
 
-## Data Changes Everything
+## Data Changes Everything: How Data Visualization Design and Interface Design are Different
 
 **Jagoda Walny, Canada Energy Regulator**
 
+**Tue, July 28, 2020. 6:00 pm **
+
 <img src="https://pbs.twimg.com/profile_images/685298896503836672/BsTqggly.jpg" width="150" style="float:right; margin-left:30px;">
 
-**Tue, July 298, 2020. time tbd**
+**Abtract:**  It’s easy to assume that the tools and approaches used for general software design apply equally to data visualization design. But data visualization design and interface design are often deeply and fundamentally distinct from one another. We learned this the hard way when we turned our research lab into a collaborative data visualization design studio for a few years, creating public-facing visualizations with a large organization and a software development team. In this talk, I will highlight some challenges that our design team faced and reflect on the opportunities this poses to create new, powerful data visualization design tools and communication processes.
 
-[http://research.jagoda.ca](http://research.jagoda.ca/)
+**Bio:** Jagoda spent two years as a postdoctoral researcher at the Interactions Lab (University of Calgary, Canada) leading a data visualization design team and reflecting on plenty of design and process challenges along the way. She currently leads the Visual Data & Design group at the Canada Energy Regulator.
 
-
+**Web**: [http://research.jagoda.ca](http://research.jagoda.ca/)
 
 
 
 # Past Talks
+
+## Future Data Visualisation Concepts
+**Laura Smith, Slanted Theory**
+
+**Wed, July 15, 2020, time 11am**
+
+<img src="https://datavis-online.github.io/images/laura-smith.png" width="150" style="float:right; margin-left:30px;">
+
+**Abstract:** The world of data is an ever growing entity. Companies are collecting vast amounts of it, on customers, machines, processes, location. Predictions put us in the realms of generating 163 zettabytes by 2025. We have some way to go, yet we are all already struggling to make sense of the data we collect. Data exploration and communicating this complex data is a challenge. Teams are under pressure as the data grows to find insight and communicate it to those that don’t have data science backgrounds. This usually means lots of dashboard graphs and reports. But it there a better way?
+
+**Bio:** Laura Smith is CEO and head of interactive visualisations at Slanted Theory, an innovative data visualisation and analytics company that utilises A.I. along with Virtual, Augmented and Mixed reality to disrupt the way data is analysed, making it easier to discover hidden insights. Laura has had a strong interest in art and design from a young age and started her career around computers by mixing digital and fine art. Later working around computer science and complex research data, Laura fused the two paths to cofound Slanted Theory. She now specialises in creating engaging interactive experiences in virtual and augmented reality to enable non-specialists to explore multidimensional data like never before, to support faster decision making through her ALAIRA platform.
+
+**Web**: [http://slantedtheory.com](http://slantedtheory.com)
 
 ## Finding What to Read: Visual Text Analytics Tools and Techniques to Guide Investigation
 **Christopher Collins, Ontario Tech Institute, OT**
