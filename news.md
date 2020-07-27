@@ -1,5 +1,8 @@
 # News
 
+* *June 2020:* Two [papers](publications.html) accepted at [AVI 2020](https://sites.google.com/unisa.it/avi2020/home)!
+* *June 2020:* <span class="red">Devanjan Bhattacharya</span> joins as a post-doc, working on map applications for peace analysis.
+* *May 2020:* <span class="red">James Scott-Brown</span> (postdoc) and <span class="red">Arran Ridley</span> (research assistant) join the team!
 * _Feb 2020:_ Position open for [University Teacher in Data Visaulization](job-datavista) (postdoc level, no PhD).
 
 * _Dec 2019:_ _Visual+Interactive Data_ contributes towards __four__ [papers](https://visualinteractivedata.github.io/publications) for [CHI 2020](https://chi2020.acm.org)! Congrats everyone!
