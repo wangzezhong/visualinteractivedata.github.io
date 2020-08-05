@@ -48,7 +48,7 @@ Before joining the University of Edinburgh in 2017, Benjamin worked as a postdoc
 * 2013 IEEE VIS Best Poster Award: Visualizing Dense Dynamic Networks with Matrix Cubes
 * 2013 ACH CHI Best Paper Award: Weighted graph comparison techniques for brain connectivity analysis
 
-## PhD Studnets
+## PhD Students
 
 * Zezhong Wang (since 2018)
 * John Harper-Lee (since 2018), 2nd 
