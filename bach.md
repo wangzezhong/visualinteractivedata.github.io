@@ -117,6 +117,7 @@ Benjamin Bach, Maxime Cordeil, Ulrich Engelke, Marcos Serrano, Wesley Willett
 * [**Data Visualisation**](https://datavis2020.github.io), semester 2 (postgraduate)
 
 ### Past
+* **[Data Visualization for Professionals](https://datavis-online.github.io)**
 * **The Human Factor**
 
 ## Research Grants
