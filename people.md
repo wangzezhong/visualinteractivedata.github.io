@@ -54,7 +54,7 @@
     <td style="vertical-align:top;">
       <b><a href="http://jamesscottbrown.com/"> James Scott-Brown</a></b>, Post-doctoral researcher on visual browing interfaces for document collections. 
       <br/>
-      <a href="https://scholar.google.com/citations?hl=en&user=1Sq86LcAAAAJ&view_op=list_works&sortby=pubdate#d=gs_hdr_drw">Google Scholar</a>
+      <a href="https://scholar.google.com/citations?user=2CciQUsAAAAJ&hl=en&oi=ao">Google Scholar</a>
     </td>
    </tr>
    
