@@ -29,26 +29,26 @@ Visual<b style="color:red;">+</b>Interactive Data is heavily involved in co-orga
 
 # Selected Projects ([more](publications.html))
 
-### Online Course Data Visualization for Professionals
+## Online Course Data Visualization for Professionals
 ![](figures/datavis-course.png)
 Running from June 15 to July 17. [https://datavis-online.github.io](https://datavis-online.github.io/)
 
-### Data Visualization Cheat Sheets
+## Data Visualization Cheat Sheets
 ![](figures/cheatsheets.png)
 Data Visualization Cheat Sheets are aimed at supporting learning and teaching of data visualization techinques and investigate ways to better teach data visualization in general. [http://visualizationcheatsheets.github.io](http://visualizationcheatsheets.github.io)
 
-### Data Comics
+## Data Comics
 ![](figures/datacomics.png)
 Data Comicscombine visual language and narrative patterns from traditional comics to tell expressive stories with data and visaulization. We explore this exciting medium and develop workshops and guiding material. [http://datacomics.net](datacomics.net)  
 
-### Immersive Anlytics
+## Immersive Anlytics
 ![](figures/immersiveanalytics.png)
 The **[Edinburgh VisHub](http://edinburghvishub.github.io)** is an university-wide lab for data visualization equipment to foster research, collaboration, learning, and outreach. **[DXR](https://sites.google.com/view/dxr-vis)** and **[IATK](https://github.com/MaximeCordeil/IATK)** are two toolkits for creating immersive data visualizations in augmented and virtual reality. Check how to participate in our [upcoming workshop at CHI 2020](http://immersiveanalytics.io). 
 
-### The Vistorian: Network Visualization
+## The Vistorian: Network Visualization
 ![](figures/vistorian.png)
 The Vistorian is an Interactive Visualizations for Dynamic and Multivariate Networks. Free, online, and open source. More information on the Vistorian-blog. [http://vistorian.net](vistorian.net)
 
-### Survey on Geographical Networks
+## Survey on Geographical Networks
 ![](figures/schoettler2019geographic.png)
 [http://geographic-networks.github.io](http://geographic-networks.github.io)
