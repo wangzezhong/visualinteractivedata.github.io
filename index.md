@@ -29,6 +29,11 @@ Visual<b style="color:red;">+</b>Interactive Data is heavily involved in co-orga
 
 # Selected Projects ([more](publications.html))
 
+## Text Analysis for Clinical Guidelines
+![](figures/covid-browser-2.png)
+In this project we are applying a combination of natural language processing and data visualisation to UK hospital guidelines for treating COVID-19 patients. 
+[Web](https://www.ltg.ed.ac.uk/projects/covid19-guideline-browser/)
+ 
 ## Online Course Data Visualization for Professionals
 ![](figures/datavis-course.png)
 Running from June 15 to July 17. [https://datavis-online.github.io](https://datavis-online.github.io/)
