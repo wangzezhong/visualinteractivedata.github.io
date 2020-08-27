@@ -19,6 +19,7 @@ Athanasios Vogogias, Daniel Archambault, Benjamin Bach, Jessie Kennedy
 **[Cheat Sheets for Data Visualization Techniques](papers/wang2020cheat.pdf)**:
 Zezhong Wang, Lovisa Sundin, Dave Murray-Rust, Benjamin Bach
 *ACM Conference on Human Factors in Computing Systems (CHI) (2020).*
+[Recorded Talk](https://www.youtube.com/watch?v=LCvsXpyY0vs&t=49s)
 
 ![](figures/cordeil2020embodied.png)
 **[Embodied Axes: Tangible, Actuated Interaction for 3D Augmented Reality Data Spaces](papers/cordeil2020embodied.pdf)**:
