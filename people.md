@@ -82,7 +82,7 @@
     <td style="vertical-align:top;">
       <b>Zezhong Wang</b>, PhD student working on <i>Methods for Creating and Teaching Data Comics</i>.
       <br/>
-      <a href="https://www.google.com/url?q=https%3A%2F%2Fwww.designinformatics.org%2Fperson%2Fzezhong-wang%2F&sa=D&sntz=1&usg=AFQjCNHzUyBbeidHdj8inLnByMelDz7tjg">Personal website</a>
+      <a href="https://zezhongwang.com/">Personal website</a>
       <br/>
       <a href="https://scholar.google.com/citations?user=EJ8drhwAAAAJ&hl=en&oi=ao">Google Scholar</a>
     </td>
